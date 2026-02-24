@@ -1,0 +1,1001 @@
+City,DBTZ,Name,Country,IATA/FAA,Longitude,Airport ID,Latitude,Timezone,DST,destinations
+Louisville,C,Louisville International Standiford Field,US,SDF,,KSDF,,827,-8,"[6961, 481, 4271]"
+Blubber Bay,E,Blubber Bay Seaplane Base,CA,XBB,,,,289,0,[3476]
+Derim,C,Derim Airport,PG,DER,,AYDE,,670,-3,"[2150, 456, 6700]"
+,C,Khark Island Airport,IR,KHK,,OIBQ,,597,-5,"[1372, 312, 6038]"
+Ciudad Juárez,B,Abraham González International Airport,MX,CJS,,MMCS,,389,-2,"[1263, 1069]"
+Tarabo,E,Tarabo Airport,PG,TBQ,,AYTR,,924,-1,"[9649, 1095]"
+São Sepé,E,São Sepé Airport,BR,0,,SSEP,,997,7,"[5569, 5076]"
+La Verne,E,Brackett Field,US,POC,,KPOC,,542,10,"[3435, 3159]"
+Akron,A,Akron Fulton International Airport,US,AKC,,KAKR,,48,-8,[7805]
+Baucau,A,Cakung Airport,TL,BCH,,WPEC,,432,5,"[7045, 715, 5546]"
+Sullivan Bay,A,Sullivan Bay Seaplane Base,CA,YTG,,CAV5,,129,-11,[1006]
+Abariringa,B,Canton Island Airport,KI,CIS,,PCIS,,764,-3,"[3751, 5313, 8389]"
+Truth Or Consequences,B,Truth Or Consequences Municipal Airport,US,TCS,,KTCS,,728,-3,"[475, 3107]"
+Adıyaman,B,Adıyaman Airport,TR,ADF,,LTCP,,324,7,[1176]
+,D,Wittenoom Airport,AU,WIT,,YWIT,,643,5,"[1494, 744]"
+York,D,York Airport,US,THV,,KTHV,,339,6,"[4665, 1782]"
+Dikson,C,Dikson Airport,RU,DKS,,UODD,,558,1,"[6949, 1546]"
+Georgetown,A,Cheddi Jagan International Airport,GY,GEO,,SYCJ,,209,0,"[9282, 7558, 4107]"
+Hot Springs,D,Ingalls Field,US,HSP,,KHSP,,698,-6,"[2276, 3516]"
+White Mountain,E,White Mountain Airport,US,WMO,,PAWM,,379,-1,"[4593, 4718]"
+Belfast,A,Sabi Sabi Airport,ZA,GSS,,FASE,,588,12,"[6527, 8457, 1992]"
+Scotts Valley,E,Santa Cruz Sky Park,US,SRU,,,,222,-6,[89]
+Camden,A,Harrell Field,US,CDH,,KCDH,,84,-3,[365]
+Pumululu National Park,D,Bellburn Airstrip,AU,BXF,,YBEB,,786,4,"[9604, 4225, 9210]"
+Isla Colón,E,Bocas Del Toro International Airport,PA,BOC,,MPBO,,369,-7,[9540]
+Kadanwari,E,Kadanwari Airport,PK,KCF,,OPKW,,881,0,[2735]
+Kristianstad,D,Kristianstad Airport,SE,KID,,ESMK,,74,-9,"[9865, 3495, 8866]"
+Guari,B,Guari Airport,PG,GUG,,AYGF,,846,-10,[7266]
+Cleveland,D,Burke Lakefront Airport,US,BKL,,KBKL,,596,-2,"[3857, 4833, 8390]"
+Tabatinga,A,Tabatinga Airport,BR,TBT,,SBTT,,870,-5,[291]
+Cheyenne,D,Cheyenne Regional Jerry Olson Field,US,CYS,,KCYS,,48,-5,[9756]
+Fderik,A,Fderik Airport,MR,FGD,,GQPF,,386,-5,"[7152, 8987, 2523]"
+Heidelberg,D,Heidelberg Army Helicopter Base,DE,HDB,,ETIE,,219,12,"[1360, 6371, 9213]"
+Lereh-Papua Island,C,Lereh Airport,ID,LHI,,WAJL,,314,-2,"[9494, 4184]"
+Alice,A,Alice International Airport,US,ALI,,KALI,,858,-1,"[2101, 5252, 1398]"
+Invercargill,B,Invercargill Airport,NZ,IVC,,NZNV,,966,1,[1748]
+Mende,C,Mont-Dauphin - St-Crépin Airport,FR,SCP,,LFNC,,316,-4,"[2830, 6920]"
+Rumbek,D,Rumbek Airport,SS,RBX,,HSMK,,133,-8,"[8683, 7022]"
+Smithers,A,Smithers Airport,CA,YYD,,CYYD,,224,8,"[6161, 1444]"
+Obo,C,Obo Airport,PG,OBX,,AYOB,,177,-11,"[8537, 8501, 9777]"
+New Philadelphia,C,Harry Clever Field,US,PHD,,KPHD,,743,-6,[2729]
+Grand Rapids,B,Grand Rapids Itasca Co-Gordon Newstrom field,US,GPZ,,KGPZ,,850,5,[3349]
+Xi'an,A,Xi'an Xianyang International Airport,CN,XIY,,ZLXY,,134,12,"[449, 6294]"
+Creston,C,Creston Valley Regional Airport - Art Sutcliffe Field,CA,CFQ,,CAJ3,,128,10,"[4458, 352, 1255]"
+Hill City,E,Hill City Municipal Airport,US,HLC,,KHLC,,124,9,[5516]
+Perth,D,Perth International Airport,AU,PER,,YPPH,,505,-3,"[894, 2993, 1283]"
+Sand Creek,E,Sand Creek Airport,GY,SDC,,SYSC,,730,-3,[7319]
+East Stroudsburg,C,Stroudsburg Pocono Airport,US,ESP,,KN53,,511,4,"[1186, 7598]"
+Holbrook,A,Holbrook Municipal Airport,US,HBK,,P14,,221,5,"[8508, 3818, 4291]"
+Tupai Atoll,A,Tupai Airport,PF,TPX,,NTTU,,962,10,[5232]
+Dubai,A,Al Minhad Air Base,AE,NHD,,OMDM,,634,5,[3486]
+Vahitahi,A,Vahitahi Airport,PF,VHZ,,NTUV,,257,6,"[8180, 7011]"
+Venetie,A,Venetie Airport,US,VEE,,PAVE,,89,-1,"[2750, 5620, 8196]"
+Baie-Comeau,E,Baie Comeau Airport,CA,YBC,,CYBC,,849,-8,[6316]
+Portland,C,Portland Hillsboro Airport,US,HIO,,KHIO,,282,3,"[6588, 3920]"
+Ouvéa,D,Ouvéa Airport,NC,UVE,,NWWV,,487,2,"[5207, 8319]"
+N'zeto,C,N'zeto Airport,AO,ARZ,,FNZE,,929,9,"[7732, 4754]"
+Baicheng,E,Baicheng Chang'an Airport,CN,DBC,,ZYBA,,507,-5,"[2080, 4144, 8064]"
+Heho,D,Heho Airport,MM,HEH,,VYHH,,621,1,"[4329, 4726]"
+Comox,E,Comox Airport,CA,YQQ,,CYQQ,,149,-12,[2251]
+Nacogdoches,B,A L Mangham Jr. Regional Airport,US,OCH,,KOCH,,93,-7,"[1296, 7487, 1937]"
+,D,Southern Cross Airport,AU,SQC,,YSCR,,673,-11,"[6374, 5290, 9050]"
+Båtsfjord,E,Båtsfjord Airport,NO,BJF,,ENBS,,635,10,"[3522, 8721]"
+Matagorda Island,E,Matagorda Island Air Force Base,US,MGI,,,,704,-8,[6488]
+Tasu,B,Tasu Water Aerodrome,CA,YTU,,,,739,-5,"[8024, 8764]"
+Skagway,C,Skagway Airport,US,SGY,,PAGY,,757,-2,[3062]
+Båtsfjord,B,Båtsfjord Airport,NO,BJF,,ENBS,,806,-6,"[7043, 5952]"
+Jonesboro,E,Jonesboro Municipal Airport,US,JBR,,KJBR,,609,-6,"[6715, 4374, 1766]"
+Kalakaket Creek,B,Kalakaket Creek AS Airport,US,KKK,,1KC,,970,-8,[5772]
+Rock Hill,E,Rock Hill - York County Airport,US,RKH,,KUZA,,545,-1,[6977]
+Points North Landing,E,Points North Landing Airport,CA,YNL,,CYNL,,225,11,[3064]
+Whiteriver,B,Whiteriver Airport,US,WTR,,E24,,963,-4,[6550]
+,E,Beloyarskiy Airport,RU,EYK,,USHQ,,926,-4,"[5476, 2920]"
+Bavannur,D,Bayannur Tianjitai Airport,CN,RLK,,ZBYZ,,441,9,[5848]
+Mainoru,E,Mainoru Airstrip,AU,MIZ,,,,721,6,"[6665, 2940, 9065]"
+Yongzhou,E,Lingling Airport,CN,LLF,,ZGLG,,956,3,"[2601, 3072, 4700]"
+Roseau,D,Roseau Municipal Rudy Billberg Field,US,ROX,,KROX,,546,10,"[1362, 2406]"
+Aguascalientes,C,Jesús Terán Paredo International Airport,MX,AGU,,MMAS,,172,-12,"[4899, 9952, 1812]"
+Sauðárkrókur,C,Sauðárkrókur Airport,IS,SAK,,BIKR,,706,-6,"[9326, 6700]"
+Miquelon,A,Miquelon Airport,PM,MQC,,LFVM,,212,-7,[237]
+Isla de la Juventud,C,Siguanea Airport,CU,SZJ,,MUSN,,521,-8,"[5701, 6397]"
+Tampa,D,Tampa International Airport,US,TPA,,KTPA,,512,1,"[7402, 7545]"
+Sandspit,A,Sandspit Airport,CA,YZP,,CYZP,,84,0,"[7569, 9990, 7921]"
+,A,Tangalooma Airport,AU,TAN,,YTGA,,122,4,"[7407, 5277, 2384]"
+Parana,E,General Urquiza Airport,AR,PRA,,SAAP,,242,-4,"[5973, 5081]"
+Kokomo,C,Kokomo Municipal Airport,US,OKK,,KOKK,,440,2,[7350]
+Chabahar,C,Konarak Airport,IR,ZBR,,OIZC,,668,4,"[6844, 2229]"
+Tumbes,A,Capitan FAP Pedro Canga Rodriguez Airport,PE,TBP,,SPME,,504,-2,[4251]
+Kimberley Downs,D,Kimberley Downs Airport,AU,KBD,,,,96,0,"[857, 1173, 8923]"
+Popayán,E,Guillermo León Valencia Airport,CO,PPN,,SKPP,,770,-12,"[3549, 8883]"
+Limestone,E,Loring International Airport,US,LIZ,,ME16,,893,0,[2018]
+Timimoun,B,Timimoun Airport,DZ,TMX,,DAUT,,12,-4,"[7259, 5609, 1039]"
+Arboletes,A,Arboletes Airport,CO,ARO,,,,797,3,[3421]
+Batuna Mission Station,E,Batuna Aerodrome,SB,BPF,,AGBT,,693,-1,[3846]
+Enterprise,D,Enterprise Municipal Airport,US,ETS,,KEDN,,969,-12,[3646]
+Rio Dulce,B,Las Vegas Airport,GT,LCF,,MGRD,,400,1,[7158]
+Essaouira,C,Mogador Airport,MA,ESU,,GMMI,,622,1,[3683]
+Mucuri,B,Mucuri Airport,BR,MVS,,SNMU,,933,-7,[4989]
+Brigham City,B,Brigham City Regional Airport,US,BMC,,KBMC,,378,3,[5129]
+Lolland Falster / Maribo,B,Lolland Falster Maribo Airport,DK,MRW,,EKMB,,408,-9,[3380]
+Zhongwei,A,Zhongwei Shapotou Airport,CN,ZHY,,ZLZW,,126,1,"[5324, 8992]"
+Shimojishima,A,Shimojishima Airport,JP,SHI,,RORS,,557,-4,[210]
+Arkalyk,E,Arkalyk North Airport,KZ,AYK,,UAUR,,999,5,"[8178, 1604]"
+,D,Mornington Island Airport,AU,ONG,,YMTI,,760,-2,"[4079, 4049, 5411]"
+Boca do Acre,C,Novo Campo Airport,BR,BCR,,SWNK,,524,11,"[6391, 7488, 6484]"
+Hoieti,B,Kamina Airport,PG,KMF,,AYKD,,94,10,[2700]
+Tin City,A,Tin City Long Range Radar Station Airport,US,TNC,,PATC,,717,-4,"[2939, 2472]"
+Vallegrande,C,Capitán Av. Vidal Villagomez Toledo Airport,BO,VAH,,SLVG,,190,-8,"[2759, 2954, 8629]"
+Latur,C,Murod Kond Airport,IN,LTU,,VALT,,737,0,"[8547, 4677, 761]"
+Maniitsoq,A,Maniitsoq Airport,GL,JSU,,BGMQ,,229,8,"[2035, 9583, 929]"
+Christchurch,B,Christchurch International Airport,NZ,CHC,,NZCH,,273,-8,[9245]
+Toulouse/Blagnac,C,Toulouse-Blagnac Airport,FR,TLS,,LFBO,,434,2,"[2807, 5473]"
+Chita,D,Chita-Kadala Airport,RU,HTA,,UIAA,,802,0,"[1746, 1071, 8010]"
+Quincy,D,Gansner Field,US,GNF,,,,913,-9,"[4779, 9029, 2253]"
+,B,Heathlands Airport,AU,HAT,,YHTL,,661,11,[6064]
+Santa Terezinha,C,Santa Terezinha Airport,BR,STZ,,SWST,,393,2,[2139]
+Tongliao,A,Tongliao Airport,CN,TGO,,ZBTL,,368,10,[9062]
+Matsuyama,A,Matsuyama Airport,JP,MYJ,,RJOM,,650,-3,[1899]
+San Luis Obispo,C,San Luis County Regional Airport,US,SBP,,KSBP,,859,6,"[7605, 6429, 9854]"
+Attu,D,Casco Cove Coast Guard Station,US,ATU,,PAAT,,255,-5,"[6778, 9904]"
+Candle,C,Candle 2 Airport,US,CDL,,AK75,,783,1,"[6884, 8081, 706]"
+Marigot,D,Douglas-Charles Airport,DM,DOM,,TDPD,,461,-11,"[4807, 9029]"
+Ruidoso,A,Sierra Blanca Regional Airport,US,RUI,,KSRR,,657,4,"[8398, 2253]"
+Balesin,D,Balesin Island Airport,PH,BSI,,RPBL,,568,-9,"[174, 2627]"
+Amery,A,Amery Municipal Airport,US,AHH,,KAHH,,207,-5,"[4074, 1555]"
+Waikabubak-Sumba Island,A,Tambolaka Airport,ID,TMC,,WATK,,736,-11,"[7668, 7818]"
+Betou,A,Betou Airport,CG,BTB,,FCOT,,636,-6,"[3238, 8145]"
+Ankazoabo,A,Ankazoabo Airport,MG,WAK,,FMSZ,,364,-7,"[7107, 2750]"
+Rimini,C,Federico Fellini International Airport,IT,RMI,,LIPR,,89,-8,[2717]
+Makokou,C,Makokou Airport,GA,MKU,,FOOK,,245,5,"[6648, 4796, 9548]"
+Utopia Creek,D,Indian Mountain LRRS Airport,US,UTO,,PAIM,,585,-7,[5106]
+Champaign/Urbana,A,University of Illinois Willard Airport,US,CMI,,KCMI,,358,-3,"[2683, 7942, 5930]"
+Manta,B,Eloy Alfaro International Airport,EC,MEC,,SEMT,,334,7,"[740, 6740, 4954]"
+Ji'an,A,Jinggangshan Airport,CN,JGS,,ZSJA,,654,-12,"[1685, 6956, 6712]"
+Rajshahi,A,Shah Mokhdum Airport,BD,RJH,,VGRJ,,212,-2,[6028]
+Kaunakakai,D,Molokai Airport,US,MKK,,PHMK,,273,9,[6033]
+Greenville,E,Greenville Spartanburg International Airport,US,GSP,,KGSP,,774,11,"[6603, 7165]"
+Ulyanovsk,E,Ulyanovsk Baratayevka Airport,RU,ULV,,UWLL,,512,5,"[5238, 8832, 8751]"
+Shangrao,C,Shangrao Sanqingshan Airport,CN,SQD,,ZSSR,,298,1,[9847]
+Barrow-in-Furness,B,Barrow Walney Island Airport,GB,BWF,,EGNL,,131,6,"[741, 7989]"
+Iaciara,B,Iaciara Airport,BR,0,,SWIA,,692,-10,[3696]
+Cabo Frio,D,Cabo Frio Airport,BR,CFB,,SBCB,,919,-6,"[7842, 3861, 3640]"
+Alexander City,A,Thomas C Russell Field,US,ALX,,KALX,,144,1,[3653]
+,D,Warrnambool Airport,AU,WMB,,YWBL,,242,4,"[159, 3811, 2101]"
+Osceola,D,L O Simenstad Municipal Airport,US,OEO,,KOEO,,725,-3,"[2870, 1208]"
+Namsang,A,Namsang Airport,MM,NMS,,VYNS,,126,-2,[9620]
+Vancouver,C,Vancouver International Airport,CA,YVR,,CYVR,,354,11,"[7862, 2385, 9582]"
+Lüliang,A,Lüliang Airport,CN,LLV,,ZBLL,,859,0,"[6497, 2428]"
+Port Alexander,D,Port Alexander Seaplane Base,US,PTD,,PAAP,,974,5,"[3622, 9577, 8062]"
+Bazaruto Island,E,Bazaruto Island Airport,MZ,BZB,,,,124,-4,"[3676, 3619]"
+Hawarden,C,Hawarden Airport,GB,CEG,,EGNR,,352,5,[932]
+Cape Newenham,E,Cape Newenham LRRS Airport,US,EHM,,PAEH,,589,7,"[5677, 8577]"
+,C,Osborne Mine Airport,AU,OSO,,YOSB,,2,-7,[7421]
+Castres/Mazamet,B,Castres-Mazamet Airport,FR,DCM,,LFCK,,769,1,"[2208, 2282, 1730]"
+Coolibah,D,Coolibah Airport,AU,COB,,,,297,-1,[3142]
+Cheadle,B,Cheadle Airport,CA,TIL,,CFQ4,,293,3,"[3864, 4420, 5701]"
+Cambridge,E,Cambridge Dorchester Airport,US,CGE,,KCGE,,923,4,"[2982, 6603, 6448]"
+Houghton Lake,A,Roscommon County - Blodgett Memorial Airport,US,HTL,,KHTL,,355,-2,[6953]
+Porbandar,B,Porbandar Airport,IN,PBD,,VAPR,,451,11,"[138, 7226]"
+Caquetania,B,Caquetania Airport,CO,CQT,,,,516,5,"[2382, 9760, 2603]"
+Cold Bay,C,Port Moller Airport,US,PML,,PAAL,,430,-8,"[8640, 8096, 1584]"
+Magnolia,B,Ralph C Weiser Field,US,AGO,,KAGO,,563,-9,"[6813, 8964, 7382]"
+Iberia,E,Iberia Airport,PE,IBP,,SPBR,,828,1,"[251, 3395]"
+Ogle,C,Eugene F. Correira International Airport,GY,OGL,,SYEC,,750,-1,"[7665, 3253]"
+Baotou,A,Baotou Airport,CN,BAV,,ZBOW,,132,3,"[783, 4626]"
+,A,Jundah Airport,AU,JUN,,YJDA,,442,12,"[6440, 3649, 4542]"
+Cravo Norte,B,Cravo Norte Airport,CO,RAV,,SKCN,,424,2,"[9738, 8564]"
+Wells,B,Wells Municipal Airport/Harriet Field,US,LWL,,KLWL,,84,9,[2708]
+El Encanto,C,El Encanto Airport,CO,ECO,,,,349,-3,[6394]
+Puerto Plata,B,Gregorio Luperon International Airport,DO,POP,,MDPP,,842,4,[8156]
+Fonte Boa,C,Fonte Boa Airport,BR,FBA,,SWOB,,275,9,"[3149, 1534]"
+Alexandria,D,Chandler Field,US,AXN,,KAXN,,497,-4,"[1379, 9899, 5522]"
+Mudgee,E,Mudgee Airport,AU,DGE,,YMDG,,831,1,[9646]
+Yangon,B,Yangon International Airport,MM,RGN,,VYYY,,833,8,[6079]
+,C,Warrawagine Airport,AU,WRW,,YWWG,,897,-5,[4187]
+,C,Kamileroi Airport,AU,KML,,YKML,,589,-1,"[863, 148, 5622]"
+Bokpyinn,C,Bokpyinn Airport,MM,VBP,,VYBP,,708,-1,"[4762, 7508]"
+Guari,A,Guari Airport,PG,GUG,,AYGF,,118,-1,"[7758, 8937, 5732]"
+Gwadar,C,Gwadar International Airport,PK,GWD,,OPGD,,335,7,"[5559, 5149, 9282]"
+Apia,A,Faleolo International Airport,WS,APW,,NSFA,,897,8,"[1011, 4164, 481]"
+Sarmi-Papua Island,B,Sarmi Airport,ID,ZRM,,WAJI,,183,7,"[682, 9565, 7054]"
+,E,Nullagine Airport,AU,NLL,,YNUL,,243,2,"[9437, 4125, 3669]"
+Rio Grande,D,Rio Grande Airport,BR,RIG,,SJRG,,279,5,[518]
+,A,Manjimup Airport,AU,MJP,,YMJM,,584,-8,"[3879, 3089, 8406]"
+Salton City,E,Salton Sea Airport,US,SAS,,KSAS,,62,-5,"[5301, 9908]"
+Plymouth,A,Plymouth Municipal Airport,US,PYM,,KPYM,,370,1,"[2176, 9740]"
+Tauramena,B,Tauramena Airport,CO,TAU,,SKTA,,315,-8,"[3379, 9443, 8030]"
+South Naknek,B,South Naknek Nr 2 Airport,US,WSN,,PFWS,,238,-11,[2785]
+Fort Sill,C,Henry Post Army Air Field (Fort Sill),US,FSI,,KFSI,,806,-10,"[1943, 2795, 8108]"
+Bradford,A,Rinkenberger Restricted Landing Area,US,BDF,,3IS8,,836,4,"[1459, 9188]"
+Santa Monica,A,Santa Monica Municipal Airport,US,SMO,,KSMO,,284,-6,[3133]
+,B,Iffley Airport,AU,IFF,,YIFY,,276,11,"[3578, 8073, 6232]"
+Daporijo,D,Daporijo Airport,IN,DEP,,VEDZ,,815,-11,[4830]
+Brize Norton,E,RAF Brize Norton,GB,BZZ,,EGVN,,278,-10,"[7993, 6078, 5800]"
+Vicenza,B,Vicenza Airport,IT,VIC,,LIPT,,861,-12,[6385]
+Bambu,B,Bambu Airport,PG,BCP,,AYBC,,868,-4,"[788, 5712, 7271]"
+Muscle Shoals,D,Northwest Alabama Regional Airport,US,MSL,,KMSL,,387,4,"[7587, 7702]"
+Redding,E,Benton Field,US,BZF,,O85,,394,2,"[2509, 8724, 8166]"
+Rivera,C,Presidente General Don Oscar D. Gestido International Airport,UY,RVY,,SURV,,133,4,"[6924, 4131, 2508]"
+Gorakhpur,A,Gorakhpur Airport,IN,GOP,,VEGK,,702,11,"[8290, 5879]"
+Defiance,B,Defiance Memorial Airport,US,DFI,,KDFI,,119,11,"[3449, 317]"
+Shikarpur,D,Shikarpur Airport,PK,SWV,,,,686,7,[1138]
+Kisumu,E,Kisumu Airport,KE,KIS,,HKKI,,667,-2,"[410, 7491]"
+Block Island,A,Block Island State Airport,US,BID,,KBID,,700,7,[5175]
+Rayong,D,U-Tapao International Airport,TH,UTP,,VTBU,,59,-12,[5408]
+Vitória Da Conquista,E,Vitória da Conquista Airport,BR,VDC,,SBQV,,175,-9,"[4531, 6314]"
+Tamworth,E,Tamworth Airport,AU,TMW,,YSTW,,514,10,"[48, 2642, 2760]"
+,D,Cowra Airport,AU,CWT,,YCWR,,779,-12,"[4537, 2644, 8656]"
+Lilabari,E,North Lakhimpur Airport,IN,IXI,,VELR,,503,-9,"[5205, 1770]"
+,D,Lubang Airport,PH,LBX,,RPLU,,466,1,"[8771, 1637, 650]"
+Tver,C,Migalovo Air Base,RU,KLD,,UUEM,,624,-9,"[6185, 5512]"
+Salisbury,B,Mid-Carolina Regional Airport,US,SRW,,KRUQ,,475,-12,"[4327, 5210]"
+Oum Hadjer,D,Oum Hadjer Airport,TD,OUM,,,,157,-12,[2866]
+,E,Deception Airport,CA,YGY,,,,765,-1,"[2139, 7090]"
+Lusanga,E,Lusanga Airport,CD,LUS,,FZCE,,880,-5,"[4170, 4554]"
+Tanjung Balai-Karinmunbesar Island,B,Sei Bati Airport,ID,TJB,,WIBT,,392,-8,[3933]
+Chiayi City,C,Chiayi Airport,TW,CYI,,RCKU,,679,4,[4103]
+Eagle Pass,A,Maverick County Memorial International Airport,US,EGP,,5T9,,736,1,[9862]
+Vitebsk,C,Vitebsk Vostochny Airport,BY,VTB,,UMII,,118,-7,[3999]
+Somerset,A,Lake Cumberland Regional Airport,US,SME,,KSME,,578,12,"[1047, 2760, 4439]"
+Galcaio,E,Galcaio Airport,SO,GLK,,HCMR,,282,-7,"[5948, 2616]"
+,C,Sharurah Airport,SA,SHW,,OESH,,886,-7,"[5296, 8673]"
+Anggi-Papua Island,E,Anggi Airport,ID,AGD,,WASG,,574,-8,"[7462, 4542, 4355]"
+Wagny,D,Wagny Airport,GA,WGY,,,,817,-4,"[4600, 5693]"
+Stewart,E,Stewart Airport,CA,ZST,,CZST,,542,-5,[1753]
+Indore,B,Devi Ahilyabai Holkar Airport,IN,IDR,,VAID,,134,-10,"[970, 5110]"
+Oklahoma City,E,Downtown Airpark,US,DWN,,,,66,-5,"[2360, 8124]"
+Bhagatanwala,B,Bhagatanwala Airport,PK,BHW,,OPBG,,416,-10,"[6910, 7616]"
+Huvadhu Atoll,B,Kaadedhdhoo Airport,MV,KDM,,VRMT,,480,4,"[4890, 1464]"
+Lago Agrio,A,Nueva Loja Airport,EC,LGQ,,SENL,,764,-11,"[4877, 750]"
+Taisha,C,Taisha Airport,EC,TSC,,SETH,,907,-12,"[1638, 41]"
+Lisbon,C,Humberto Delgado Airport (Lisbon Portela Airport),PT,LIS,,LPPT,,386,4,"[6974, 4352, 553]"
+Akureyri,D,Akureyri Airport,IS,AEY,,BIAR,,574,-10,[3247]
+Bellaire,B,Antrim County Airport,US,ACB,,KACB,,752,-10,"[6999, 4290, 7193]"
+Mbarara,C,Mbarara Airport,UG,MBQ,,HUMA,,338,8,"[1216, 4148, 1798]"
+Lyndonville,D,Caledonia County Airport,US,LLX,,KCDA,,193,-4,"[88, 6165, 9818]"
+Harrismith,D,Harrismith Airport,ZA,HRS,,FAHR,,454,4,"[2629, 7981]"
+Kuopio / Siilinjärvi,D,Kuopio Airport,FI,KUO,,EFKU,,117,2,"[286, 4005]"
+N'dolo,B,Ndolo Airport,CD,NLO,,FZAB,,500,-7,"[3454, 7225]"
+Jagdalpur,A,Jagdalpur Airport,IN,JGB,,,,189,-11,[6629]
+Mombaça,A,Mombaça Airport,BR,0,,SNMB,,433,-9,[9976]
+Vava'u Island,A,Vava'u International Airport,TO,VAV,,NFTV,,876,1,"[7302, 3850, 1305]"
+Ras Al Khaimah,C,Ras Al Khaimah International Airport,AE,RKT,,OMRK,,996,8,"[800, 4736, 9617]"
+Apiay,C,Gomez Nino Apiay Air Base,CO,API,,SKAP,,951,1,"[6792, 9450, 3754]"
+Marshall,C,Southwest Minnesota Regional Airport - Marshall/Ryan Field,US,MML,,KMML,,226,-3,"[8058, 9048, 9166]"
+Mzuzu,C,Mzuzu Airport,MW,ZZU,,FWUU,,601,9,"[8031, 2193, 2444]"
+,D,Georgetown (Tas) Airport,AU,GEE,,YGTO,,535,3,"[8683, 9514]"
+Magda,A,Fazenda São Francisco Airport,BR,0,,SNQP,,992,-9,"[6952, 3794, 4309]"
+Cotulla,D,Cotulla-La Salle County Airport,US,COT,,KCOT,,186,5,[4254]
+Nukus,C,Nukus Airport,UZ,NCU,,UTNN,,867,9,[338]
+Courtenay,A,Courtenay Airpark,CA,YCA,,CAH3,,771,-4,[6515]
+Erandique,A,Erandique Airport,HN,EDQ,,MHGU,,495,-1,[230]
+Gabbs,A,Gabbs Airport,US,GAB,,KGAB,,835,12,[8133]
+Roundup,D,Roundup Airport,US,RPX,,KRPX,,605,5,"[2473, 8579]"
+Cartwright,C,Cartwright Airport,CA,YRF,,CYCA,,36,0,[2782]
+Santa María,B,Santa Maria Airport,PE,SMG,,SPMR,,953,-9,"[6329, 8367]"
+Sikasso,B,Sikasso Airport,ML,KSS,,GASK,,68,12,"[4011, 2762, 7928]"
+Tlokoeng,B,Tlokoeng Airport,LS,TKO,,FXTK,,621,-12,"[882, 3057]"
+Örnsköldsvik,D,Örnsköldsvik Airport,SE,OER,,ESNO,,517,-9,[1495]
+Fort Hunter Ligget Jolon,A,Tusi AHP (Hunter Liggett) Heliport,US,HGT,,KHGT,,904,6,"[3992, 9545]"
+Chile Chico,C,Chile Chico Airport,CL,CCH,,SCCC,,169,1,"[9878, 1478]"
+,D,Baoshan Yunduan Airport,CN,BSD,,ZPBS,,517,-5,"[5030, 713]"
+Meyers Chuck,E,Meyers Chuck Seaplane Base,US,WMK,,84K,,135,-9,[6188]
+Cabo Rojo,A,Cabo Rojo Airport,DO,CBJ,,MDCR,,606,10,"[6872, 998]"
+La Seu d'Urgell Pyrenees and Andorra,D,Pirineus - la Seu d'Urgel Airport,ES,LEU,,LESU,,784,-11,"[5686, 3268, 2630]"
+Geiteryggen,C,Skien Airport,NO,SKE,,ENSN,,160,-11,"[1593, 6815, 599]"
+Elazığ,D,Elazığ Airport,TR,EZS,,LTCA,,853,-1,[2984]
+Willcox,A,Cochise County Airport,US,CWX,,P33,,59,7,"[5893, 2811, 6538]"
+Manaung,C,Manaung Airport,MM,MGU,,VYMN,,683,10,[9496]
+Welshpool,B,Welshpool Airport,AU,WHL,,,,624,2,"[7315, 1347]"
+Banana,B,Cassidy International Airport,KI,CXI,,PLCH,,522,-8,[1918]
+Fairmont Hot Springs,B,Fairmont Hot Springs Airport,CA,YCZ,,CYCZ,,285,2,"[6562, 4723, 9548]"
+Dera Ghazi Khan,B,Dera Ghazi Khan Airport,PK,DEA,,OPDG,,575,8,"[2577, 405, 7786]"
+Erzincan,E,Erzincan Airport,TR,ERC,,LTCD,,766,6,[6219]
+Pratas Island,B,Dongsha Island Airport,TW,DSX,,RCLM,,612,4,"[3420, 7974, 5063]"
+Milingimbi Island,B,Milingimbi Airport,AU,MGT,,YMGB,,789,-3,"[4164, 9676]"
+Chehalis,B,Chehalis Centralia Airport,US,CLS,,KCLS,,321,-10,"[6382, 4023]"
+Lidköping,A,Lidköping-Hovby Airport,SE,LDK,,ESGL,,969,-3,"[1305, 4875]"
+Kapanga,D,Kapanga Airport,CD,KAP,,FZSK,,933,-1,"[4142, 3028, 9500]"
+Kabul,C,Hamid Karzai International Airport,AF,KBL,,OAKB,,862,-11,"[9291, 3902, 3490]"
+Madurai,A,Madurai Airport,IN,IXM,,VOMD,,851,3,"[2514, 5852, 5299]"
+Pimenta Bueno,D,Pimenta Bueno Airport,BR,PBQ,,SWPM,,763,2,"[3419, 9131, 7897]"
+,D,Yapsiei Airport,PG,KPE,,AYYP,,724,-4,"[9627, 3662]"
+Qingyang,A,Qingyang Airport,CN,IQN,,ZLQY,,675,4,"[6131, 1905, 5723]"
+Benghazi,A,Benina International Airport,LY,BEN,,HLLB,,895,-10,"[1419, 3017]"
+Pitalito,A,Pitalito Airport,CO,PTX,,SKPI,,288,-12,[8618]
+Anjo Peninsula,B,Truscott-Mungalalu Airport,AU,TTX,,YTST,,882,-5,"[8709, 5457]"
+Nanuya Levu Island,D,Turtle Island Seaplane Base,FJ,TTL,,NFUL,,379,2,"[822, 7972]"
+Hasvik,C,Hasvik Airport,NO,HAA,,ENHK,,435,-6,"[4225, 7785]"
+Enniskillen,A,St Angelo Airport,GB,ENK,,EGAB,,763,-2,"[6961, 9806]"
+Manguna,E,Manguna Airport,PG,MFO,,AYNG,,805,-8,"[2416, 4759]"
+Warton,A,Warton Airport,GB,WRT,,EGNO,,779,-2,"[6708, 3821, 4189]"
+Gounda,E,Gounda Airport,CF,GDA,,,,62,9,"[407, 9928]"
+Ringi Cove,D,Ringi Cove Airport,SB,RIN,,AGRC,,893,4,[6506]
+Chittagong,D,Shah Amanat International Airport,BD,CGP,,VGEG,,687,11,[6764]
+Doncaster,A,Robin Hood Doncaster Sheffield Airport,GB,DSA,,EGCN,,149,10,"[4985, 4240, 9888]"
+Aomori,B,Aomori Airport,JP,AOJ,,RJSA,,539,9,"[3736, 2691]"
+Paratebueno,C,Paratebueno Airport,CO,EUO,,,,80,4,"[2172, 7087, 9948]"
+,C,Sirri Island Airport,IR,SXI,,OIBS,,955,-5,"[4715, 2018]"
+Amritsar,C,Sri Guru Ram Dass Jee International Airport,IN,ATQ,,VIAR,,877,-5,"[9102, 9042]"
+Pathein,D,Pathein Airport,MM,BSX,,VYPN,,160,-12,"[5156, 4659]"
+Videira,E,Videira Airport,BR,VIA,,SSVI,,358,1,[3505]
+Needles,D,Needles Airport,US,EED,,KEED,,933,0,"[516, 2449]"
+Xi'an,E,Xi'an Xianyang International Airport,CN,XIY,,ZLXY,,763,9,[2780]
+Kelowna,A,Kelowna International Airport,CA,YLW,,CYLW,,613,-11,[9764]
+Taiyuan,B,Taiyuan Wusu Airport,CN,TYN,,ZBYN,,320,2,[366]
+Sipitang,D,Sipitang Airport,MY,SPT,,,,622,-2,"[630, 3021]"
+Hluhluwe,E,Hluhluwe Airport,ZA,HLW,,FAHL,,920,3,[9465]
+Monkey Mountain,E,Monkey Mountain Airport,GY,MYM,,SYMM,,53,-12,[8636]
+,D,Monclova International Airport,MX,LOV,,MMMV,,846,11,"[9776, 4160]"
+Plymouth,B,Plymouth Municipal Airport,US,PYM,,KPYM,,65,-10,"[5746, 7382, 9327]"
+Playón Chico,B,Playón Chico Airport,PA,PYC,,,,884,0,[3041]
+Simikot,B,Simikot Airport,NP,IMK,,VNST,,396,-7,"[7794, 8107, 7936]"
+Perm,B,Bolshoye Savino Airport,RU,PEE,,USPP,,420,-9,"[7865, 5629, 1356]"
+Rzeszów,E,Rzeszów-Jasionka Airport,PL,RZE,,EPRZ,,833,-9,"[527, 8767]"
+Gurupi,D,Gurupi Airport,BR,GRP,,SWGI,,925,11,"[3827, 6056]"
+"Alajero, La Gomera Island",D,La Gomera Airport,ES,GMZ,,GCGM,,196,9,"[9717, 5615]"
+Humaitá,C,Humaitá Airport,BR,HUW,,SWHT,,292,-9,"[1656, 2301]"
+Egegik,A,Egegik Airport,US,EGX,,PAII,,540,-1,"[9407, 29, 6460]"
+Annapolis,D,Lee Airport,US,ANP,,KANP,,867,1,"[9620, 8771]"
+Corvallis,E,Corvallis Municipal Airport,US,CVO,,KCVO,,204,12,"[3539, 7817, 7352]"
+Wallis Island,E,Hihifo Airport,WF,WLS,,NLWW,,579,-7,"[9021, 5118, 939]"
+Astoria,A,Astoria Regional Airport,US,AST,,KAST,,485,-6,[7213]
+Cold Lake,E,CFB Cold Lake,CA,YOD,,CYOD,,196,-6,[1964]
+Apalachicola,E,Apalachicola Regional Airport,US,AAF,,KAAF,,139,-8,"[6154, 97, 9153]"
+Unalaska,E,Unalaska Airport,US,DUT,,PADU,,99,1,[3765]
+"Alajero, La Gomera Island",D,La Gomera Airport,ES,GMZ,,GCGM,,810,1,"[7216, 6305, 6841]"
+Nantes,C,Nantes Atlantique Airport,FR,NTE,,LFRS,,633,4,"[9678, 779, 811]"
+Najaf,B,Al Najaf International Airport,IQ,NJF,,ORNI,,80,-8,"[5230, 21, 5558]"
+Durazno,B,Santa Bernardina International Airport,UY,DZO,,SUDU,,675,6,"[3798, 1772]"
+,A,Wiluna Airport,AU,WUN,,YWLU,,445,11,"[2016, 2022, 5003]"
+Sainyabuli,B,Sayaboury Airport,LA,ZBY,,VLSB,,814,-11,"[7167, 7788, 7435]"
+Batesville,B,Batesville Regional Airport,US,BVX,,KBVX,,93,-8,"[4553, 2032, 8159]"
+Rokot-Sumatra Island,E,Rokot Airport,ID,RKI,,,,915,3,[547]
+Pelaneng,A,Pelaneng Airport,LS,PEL,,FXPG,,66,8,"[182, 3814]"
+Armenia,B,Puerto Nare Airport,CO,NAR,,SKPN,,887,10,"[4487, 781, 696]"
+Guemar,E,Guemar Airport,DZ,ELU,,DAUO,,478,3,"[7508, 7527]"
+Roxas City,E,Roxas Airport,PH,RXS,,RPVR,,205,10,"[2249, 1176]"
+,A,Brewarrina Airport,AU,BWQ,,YBRW,,419,-10,"[291, 7479]"
+Rosella Plains,C,Rosella Plains Airport,AU,RLP,,,,721,-1,"[7857, 1961]"
+Anshun,B,Anshun Huangguoshu Airport,CN,AVA,,ZUAS,,692,-3,[8304]
+Lyndhurst,C,Lyndhurst Airport,AU,LTP,,YLHS,,472,1,[6081]
+Artesia,D,Artesia Municipal Airport,US,ATS,,KATS,,741,-1,[1655]
+Gökçeada,D,Imroz Airport,TR,GKD,,LTFK,,776,2,[3498]
+Aguaclara,E,Aguaclara Airport,CO,ACL,,,,785,0,[2741]
+Nondalton,A,Nondalton Airport,US,NNL,,PANO,,496,-10,"[7329, 8271]"
+Narsarsuaq,C,Narsarsuaq Airport,GL,UAK,,BGBW,,516,12,"[234, 5142]"
+Gonghang-ro (Mokpo),A,Mokpo Airport,KR,MPK,,RKJM,,84,-6,[8741]
+Puerto Deseado,E,Puerto Deseado Airport,AR,PUD,,SAWD,,892,3,[8396]
+Pottuvil,D,Arugam Bay SPB,LK,AYY,,,,176,-11,"[3849, 5240, 7138]"
+Urengoy,D,Urengoy Airport,RU,UEN,,USDU,,641,6,[7920]
+Colombo,B,Beira Lake Seaplane Base,LK,BYV,,,,142,-7,[1534]
+Puerto Putumayo,D,Putumayo Airport,EC,PYO,,SEPT,,129,10,"[9895, 610, 9693]"
+Jackson,B,Hawkins Field,US,HKS,,KHKS,,160,-9,[1784]
+Culver City,B,Hughes Airport,US,CVR,,,,653,-8,"[9465, 4468]"
+Salerno,E,Salerno Costa d'Amalfi Airport,IT,QSR,,LIRI,,272,-11,"[8141, 488]"
+Chicago/Rockford,C,Chicago Rockford International Airport,US,RFD,,KRFD,,786,6,"[2301, 9072]"
+Sheboygan,D,Sheboygan County Memorial Airport,US,SBM,,KSBM,,803,0,[4711]
+Apiay,C,Gomez Nino Apiay Air Base,CO,API,,SKAP,,590,5,[3769]
+Newcastle,D,Newcastle Airport,GB,NCL,,EGNT,,616,-10,[4041]
+Bajawa,E,Bajawa Soa Airport,ID,BJW,,WATB,,889,6,"[7571, 9934, 4212]"
+Longnan,E,Longnan Chengzhou Airport,CN,LNL,,ZLLN,,760,-2,"[8601, 9824]"
+Sulphur Springs,B,Sulphur Springs Municipal Airport,US,SLR,,KSLR,,421,-4,"[1978, 6987]"
+Mountain,E,Mountain Airport,NP,MWP,,,,0,-1,[5350]
+Velikiye Luki,D,Velikiye Luki Airport,RU,VLU,,ULOL,,381,-3,"[5366, 7546, 6900]"
+Rouyn-Noranda,B,Rouyn Noranda Airport,CA,YUY,,CYUY,,142,3,"[6815, 215]"
+Sorriso,D,Adolino Bedin Regional Airport,BR,SMT,,SBSO,,617,11,[5182]
+Santa Rosa,A,Santa Rosa Airport,AR,RSA,,SAZR,,189,-11,"[8601, 4472]"
+Fargo,D,Hector International Airport,US,FAR,,KFAR,,870,1,"[1328, 474, 6059]"
+Pehuajó,D,Comodoro Pedro Zanni Airport,AR,PEH,,SAZP,,357,4,"[1613, 8160]"
+Jijiga,D,Wilwal International Airport,ET,JIJ,,HAJJ,,190,3,"[5868, 7838]"
+Great Falls,D,Great Falls International Airport,US,GTF,,KGTF,,353,-8,"[932, 9040, 3948]"
+Biarritz/Anglet/Bayonne,B,Biarritz-Anglet-Bayonne Airport,FR,BIQ,,LFBZ,,861,-9,[4289]
+Da Nang,E,Da Nang International Airport,VN,DAD,,VVDN,,230,3,"[7600, 2424, 6991]"
+,C,Kingaroy Airport,AU,KGY,,YKRY,,6,-8,[8389]
+Eagle Lake,E,Eagle Lake Airport,US,ELA,,KELA,,199,-3,[8667]
+Moala,D,Moala Airport,FJ,MFJ,,NFMO,,797,2,[6564]
+Búðardalur,D,Búðardalur Airport,IS,BQD,,BIBR,,514,-8,[1517]
+Merowe,B,Merowe New Airport,SD,MWE,,HSMN,,121,-6,[6666]
+Berlin,C,Berlin-Schönefeld Airport,DE,SXF,,EDDB,,919,4,"[6257, 2345, 9263]"
+N'Délé,B,N'Délé Airport,CF,NDL,,FEFN,,54,10,"[283, 9290]"
+Kauhava,B,Kauhava Airport,FI,KAU,,EFKA,,741,1,"[8509, 1166, 2773]"
+Kavala,B,Alexander the Great International Airport,GR,KVA,,LGKV,,638,2,"[6576, 2777, 7942]"
+Birao,D,Birao Airport,CF,IRO,,FEFI,,236,9,[8813]
+Olathe,D,New Century Aircenter Airport,US,JCI,,KIXD,,633,-4,"[2865, 322]"
+Klaipėda,A,Klaipėda Airport,LT,KLJ,,EYKL,,209,-3,"[2765, 5088]"
+Port Graham,D,Port Graham Airport,US,PGM,,PGM,,525,5,"[5829, 4973, 6621]"
+Lakeba Island,E,Lakeba Island Airport,FJ,LKB,,NFNK,,181,-12,"[4448, 1055, 2495]"
+Columbia,B,Columbia Metropolitan Airport,US,CAE,,KCAE,,979,7,"[6388, 3474]"
+Weihai,B,Weihai Airport,CN,WEH,,ZSWH,,180,-8,"[8095, 8642, 4593]"
+Karaj,A,Payam International Airport,IR,PYK,,OIIP,,64,11,"[9143, 6583, 7633]"
+Gyumri,C,Gyumri Shirak Airport,AM,LWN,,UDSG,,245,-9,[6451]
+Aribinda,C,Aribinda Airport,BF,XAR,,DFOY,,50,12,"[7317, 9894]"
+Rzeszów,D,Rzeszów-Jasionka Airport,PL,RZE,,EPRZ,,58,-12,"[1173, 6172]"
+Mamai,D,Mamai Airport,PG,MAP,,,,876,-11,[4807]
+Santa Rosa,B,Santa Rosa Airport,AR,RSA,,SAZR,,961,6,"[2972, 1279]"
+Concordia,A,Blosser Municipal Airport,US,CNK,,KCNK,,866,-3,"[5298, 9268]"
+Waverney,B,Waverney Airport,AU,WAN,,,,809,-5,[257]
+Kitzingen,D,Flugplatz Kitzingen,DE,KZG,,EDGY,,530,-7,"[395, 7359, 2739]"
+Lokichoggio,B,Lokichoggio Airport,KE,LKG,,HKLK,,134,0,[2595]
+Alta Floresta,A,Piloto Osvaldo Marques Dias Airport,BR,AFL,,SBAT,,682,0,"[386, 4914, 8239]"
+Loikaw,B,Loikaw Airport,MM,LIW,,VYLK,,801,1,"[3210, 6690]"
+Oksibil-Papua Island,B,Oksibil Airport,ID,OKL,,WAJO,,45,3,"[5302, 3086]"
+Wuyishan,C,Nanping Wuyishan Airport,CN,WUS,,ZSWY,,125,-1,[9870]
+Chitose / Tomakomai,C,New Chitose Airport,JP,CTS,,RJCC,,330,-5,"[2647, 6743]"
+Kvernberget,E,Kristiansund Airport (Kvernberget),NO,KSU,,ENKB,,958,12,"[8995, 2540, 3996]"
+Komatipoort,A,Komatipoort Airport,ZA,KOF,,FAKP,,946,1,"[5376, 1654]"
+Yarmouth,A,Yarmouth Airport,CA,YQI,,CYQI,,998,-12,"[4437, 7880]"
+Basankusu,A,Basankusu Airport,CD,BSU,,FZEN,,719,-1,"[7893, 5214]"
+Menominee,D,Menominee Regional Airport,US,MNM,,KMNM,,961,-10,[5953]
+Chagai,D,Reko Diq Airport,PK,REQ,,,,46,-7,"[5176, 7374, 1295]"
+Yandina,A,Yandina Airport,SB,XYA,,AGGY,,280,-1,[2553]
+Kagua,C,Kagua Airport,PG,AGK,,,,905,-2,"[7063, 2934, 4139]"
+Batesville,B,Batesville Regional Airport,US,BVX,,KBVX,,96,9,[923]
+Guilin City,C,Guilin Liangjiang International Airport,CN,KWL,,ZGKL,,157,-8,"[4234, 5085, 7135]"
+Wharton,D,Wharton Regional Airport,US,WHT,,KARM,,240,-1,"[5758, 5757]"
+Chicago/Romeoville,D,Lewis University Airport,US,LOT,,KLOT,,821,12,[665]
+Amahai-Seram Island,C,Amahai Airport,ID,AHI,,WAPA,,347,-4,[3192]
+Imperial,E,Imperial Municipal Airport,US,IML,,KIML,,161,6,[4545]
+Mikkeli,C,Mikkeli Airport,FI,MIK,,EFMI,,456,7,"[8796, 595]"
+Pelican,C,Pelican Seaplane Base,US,PEC,,PEC,,325,-12,"[8266, 3214, 3590]"
+Redding,D,Benton Field,US,BZF,,O85,,919,-3,"[832, 6091, 7382]"
+Hamilton,C,John C. Munro Hamilton International Airport,CA,YHM,,CYHM,,244,-11,"[1846, 9167]"
+Humaitá,D,Humaitá Airport,BR,HUW,,SWHT,,573,-1,[6399]
+Sartaneja,E,Sartaneja Airport,BZ,SJX,,,,380,0,"[265, 9718, 6767]"
+Savé,E,Savé Airport,BJ,SVF,,DBBS,,27,-3,[9960]
+Mahe Island,A,Seychelles International Airport,SC,SEZ,,FSIA,,523,12,"[1011, 3885]"
+Fort Liard,D,Fort Liard Airport,CA,YJF,,CYJF,,420,7,"[7037, 865]"
+Apiay,B,Gomez Nino Apiay Air Base,CO,API,,SKAP,,441,-4,[5345]
+Summer Beaver,B,Summer Beaver Airport,CA,SUR,,CJV7,,134,-10,"[9855, 3946, 270]"
+Birch Creek,B,Birch Creek Airport,US,KBC,,Z91,,228,-4,[1295]
+,D,Cumaná (Antonio José de Sucre) Airport,VE,CUM,,SVCU,,815,2,"[5921, 5646, 3696]"
+Detroit,D,Willow Run Airport,US,YIP,,KYIP,,143,1,"[9607, 8361, 9851]"
+Garissa,D,Garissa Airport,KE,GAS,,HKGA,,535,2,"[9949, 5368, 7787]"
+Chitose / Tomakomai,A,New Chitose Airport,JP,CTS,,RJCC,,691,-8,[6637]
+Anacortes,B,Anacortes Airport,US,OTS,,,,477,-2,"[3041, 5495]"
+Grand Rapids,C,Gerald R. Ford International Airport,US,GRR,,KGRR,,777,-6,"[1543, 6477, 275]"
+Waterford,B,Waterford Airport,IE,WAT,,EIWF,,965,7,"[1989, 7985]"
+,C,Barreirinhas Airport,BR,BRB,,SSRS,,138,-1,"[3031, 1500, 7923]"
+Humera,C,Humera Airport,ET,HUE,,HAHU,,377,-9,"[6886, 6860]"
+Allakaket,E,Allakaket Airport,US,AET,,PFAL,,768,-12,[6662]
+Ankavandra,A,Ankavandra Airport,MG,JVA,,FMMK,,838,-12,"[3927, 9936]"
+San Juan,A,San Juan Airport,DO,SJM,,MDSJ,,566,-10,"[6501, 2996, 2333]"
+Whitehorse,E,Whitehorse / Erik Nielsen International Airport,CA,YXY,,CYXY,,289,5,[4961]
+Jacobabad,B,Shahbaz Air Base,PK,JAG,,OPJA,,905,-4,[3750]
+Vava'u Island,D,Vava'u International Airport,TO,VAV,,NFTV,,531,0,"[8291, 7636]"
+Wekweètì,A,Wekweètì Airport,CA,YFJ,,CYWE,,393,-5,"[8548, 9950]"
+Labuan,E,Labuan Airport,MY,LBU,,WBKL,,125,0,"[2322, 1269, 7276]"
+Dadu,D,Dadu Airport,PK,DDU,,OPDD,,665,10,"[7853, 6788, 6899]"
+,C,Valle de La Pascua Airport,VE,VDP,,SVVP,,328,-6,"[1828, 8142]"
+Ibo,D,Ibo Airport,MZ,IBO,,FQIB,,828,3,"[5499, 5759]"
+Ar Rayyan,A,Al Udeid Air Base,QA,XJD,,OTBH,,165,6,"[2442, 791]"
+Augusta,D,Daniel Field,US,DNL,,KDNL,,26,-7,"[6005, 4635, 6057]"
+Propriá,B,Propriá Airport,BR,0,,SNOP,,752,8,"[4891, 3828, 1733]"
+Bhairawa,C,Gautam Buddha Airport,NP,BWA,,VNBW,,323,9,"[3062, 9879]"
+Lima,D,Lima Allen County Airport,US,AOH,,KAOH,,941,-12,[5152]
+Vila Real,D,Vila Real Airport,PT,VRL,,LPVR,,508,1,"[3206, 2804, 6400]"
+,E,Roseberth Airport,AU,RSB,,YRSB,,180,-8,"[5213, 4709, 5655]"
+Marau,D,Marau Airport,SB,RUS,,AGGU,,291,8,[6287]
+Altus,C,Altus Air Force Base,US,LTS,,KLTS,,229,-9,"[4630, 608]"
+Canaima,B,Canaima Airport,VE,CAJ,,SVCN,,731,4,[5180]
+Teller,A,Teller Airport,US,TLA,,PATE,,722,8,"[1555, 5543, 7626]"
+Fort Knox,E,Godman Army Air Field,US,FTK,,KFTK,,948,0,[6851]
+Minsk,C,Minsk National Airport,BY,MSQ,,UMMS,,239,11,"[1085, 5710]"
+,C,Oakey Airport,AU,OKY,,YBOK,,934,-9,"[1648, 8093]"
+Neyveli,A,Neyveli Airport,IN,NVY,,VONV,,693,3,"[9286, 9180]"
+,D,Tandag Airport,PH,TDG,,RPMW,,620,-4,[2480]
+Melbourne,A,Melbourne Moorabbin Airport,AU,MBW,,YMMB,,781,4,"[603, 3240]"
+St. Mary's,E,St. Mary's Airport,GB,ISC,,EGHE,,56,7,"[4863, 4697, 1877]"
+Ji-Paraná,E,Ji-Paraná Airport,BR,JPR,,SBJI,,160,10,"[6354, 8639, 2278]"
+Terrace Bay,E,Terrace Bay Airport,NA,TCY,,FYTE,,49,-12,[6922]
+Kuantan,A,Kuantan Airport,MY,KUA,,WMKD,,780,-1,[7300]
+Haikou,B,Haikou Meilan International Airport,CN,HAK,,ZJHK,,446,-4,[3563]
+Dera Ismael Khan,E,Dera Ismael Khan Airport,PK,DSK,,OPDI,,732,7,[3198]
+Storck Barracks,B,Illesheim Air Base,DE,ILH,,ETIK,,796,9,[6381]
+Pindiu,A,Pindiu Airport,PG,PDI,,AYPD,,98,3,[2759]
+Lawrenceville,A,Gwinnett County Briscoe Field,US,LZU,,KLZU,,800,-5,"[3847, 7275]"
+Quelimane,A,Quelimane Airport,MZ,UEL,,FQQL,,36,10,"[5772, 8959]"
+Tanjung Selor-Borneo Island,C,Tanjung Harapan Airport,ID,TJS,,WALG,,849,8,"[934, 1424, 6418]"
+Maple Bay,D,Maple Bay Seaplane Base,CA,YAQ,,,,949,-2,[702]
+Puerto Madryn,B,El Tehuelche Airport,AR,PMY,,SAVY,,704,3,[9745]
+Lahad Datu,D,Lahad Datu Airport,MY,LDU,,WBKD,,975,4,"[7440, 8469]"
+Sequim,D,Sequim Valley Airport,US,SQV,,W28,,179,-6,[6313]
+,D,Savannakhet Airport,LA,ZVK,,VLSK,,379,-5,"[7252, 8997]"
+Talara,D,Capitan Montes Airport,PE,TYL,,SPYL,,45,-10,[7701]
+Stirling Island,D,Mono Airport,SB,MNY,,AGGO,,408,-1,[582]
+Puttaparthi,E,Sri Sathya Sai Airport,IN,PUT,,VOPN,,885,1,"[982, 2245]"
+Little Cayman,D,Edward Bodden Airfield,KY,LYB,,MWCL,,203,-3,"[126, 4926]"
+Chitato,A,Chitato Airport,AO,PGI,,FNCH,,638,-7,"[3149, 8787, 7354]"
+Kimaam,C,Kimaam Airport,ID,KMM,,,,66,10,"[7481, 4725, 1678]"
+Fairfield,C,Travis Air Force Base,US,SUU,,KSUU,,959,2,[3724]
+Phaplu,D,Phaplu Airport,NP,PPL,,VNPL,,88,9,[5055]
+Kalima,A,Kinkungwa Airport,CD,KLY,,FZOD,,391,1,"[0, 2089, 6279]"
+Augusta,B,Daniel Field,US,DNL,,KDNL,,726,-3,"[1812, 4882]"
+Tanandava,C,Samangoky Airport,MG,TDV,,FMSN,,720,-8,"[3292, 8271, 6617]"
+Mae Hong Son,D,Mae Hong Son Airport,TH,PYY,,VTCI,,191,9,[2899]
+Galle,B,Koggala Airport,LK,KCT,,VCCK,,757,-8,"[8764, 359, 8644]"
+Tuluksak,C,Tuluksak Airport,US,TLT,,TLT,,228,11,[941]
+Chicago/West Chicago,E,Dupage Airport,US,DPA,,KDPA,,844,12,[6005]
+Leros Island,D,Leros Airport,GR,LRS,,LGLE,,296,-11,"[2252, 6400, 2065]"
+Plastun,A,Plastun Airport,RU,TLY,,UHWP,,76,3,"[863, 3504, 1031]"
+Bordj Badji Mokhtar,B,Bordj Badji Mokhtar Airport,DZ,BMW,,DATM,,609,8,"[2528, 9848, 6081]"
+Milan,C,Malpensa International Airport,IT,MXP,,LIMC,,589,1,[6899]
+Nueva Guinea,A,Nueva Guinea Airport,NI,NVG,,MNNG,,502,-2,"[283, 754, 8209]"
+Bountiful,B,Skypark Airport,US,BTF,,KBTF,,298,-5,"[3099, 8366, 5175]"
+Shungnak,A,Shungnak Airport,US,SHG,,PAGH,,747,1,"[7792, 6606]"
+Centralia,A,Centralia / James T. Field Memorial Aerodrome,CA,YCE,,CYCE,,576,2,"[3353, 1291, 7703]"
+Saturna Island,B,Lyall Harbour Seaplane Base,CA,YAJ,,,,666,0,[4528]
+,B,Celle Airport,DE,ZCN,,ETHC,,97,12,"[2233, 5787]"
+Ar Rayyan,C,Al Udeid Air Base,QA,XJD,,OTBH,,757,-10,"[8583, 4386]"
+Rybinsk,E,Staroselye Airport,RU,RYB,,UUBK,,1,-10,"[5736, 6410]"
+Syktyvkar,A,Syktyvkar Airport,RU,SCW,,UUYY,,915,-10,"[7279, 1046]"
+Wageningen,B,Wageningen Airstrip,SR,AGI,,SMWA,,897,12,[7318]
+Saravena,C,Los Colonizadores Airport,CO,RVE,,SKSA,,47,3,"[4948, 4339]"
+,A,Cluny Airport,AU,CZY,,YUNY,,884,4,[5873]
+Skardu,E,Skardu Airport,PK,KDU,,OPSD,,304,-4,"[2015, 1130, 5228]"
+,B,Monclova International Airport,MX,LOV,,MMMV,,192,5,"[1741, 644]"
+,E,Hanamaki Airport,JP,HNA,,RJSI,,41,-9,"[2854, 9613]"
+Norrköping,A,Norrköping Airport,SE,NRK,,ESSP,,503,-4,"[2527, 9079]"
+,B,Ronneby Airport,SE,RNB,,ESDF,,248,8,"[6358, 9354, 7713]"
+Garça,B,Garça Airport,BR,0,,SDGC,,810,-12,"[6170, 547, 6241]"
+Pasto,B,Antonio Narino Airport,CO,PSO,,SKPS,,620,0,[2742]
+Walvis Bay,D,Walvis Bay Airport,NA,WVB,,FYWB,,122,3,"[1679, 40, 1355]"
+Carriacou Island,E,Lauriston Airport,GD,CRU,,TGPZ,,58,0,"[118, 4968, 3609]"
+Majuro Atoll,C,Marshall Islands International Airport,MH,MAJ,,PKMJ,,775,3,"[3411, 5696, 2924]"
+Mansehra,D,Mansehra Airport,PK,HRA,,,,394,6,"[4184, 9276, 3477]"
+Grand Bahama,B,Auxiliary Airfield,BS,GBI,,MYGM,,438,-12,[7840]
+Yes Bay,A,Yes Bay Lodge Seaplane Base,US,WYB,,78K,,101,-7,"[3354, 8722]"
+Alegrete,E,Alegrete Novo Airport,BR,ALQ,,SSLT,,854,5,"[176, 1166]"
+Bogorodskoye,A,Bogorodskoye Airport,RU,BQG,,UHNB,,916,9,"[474, 2430, 6305]"
+Muscle Shoals,A,Northwest Alabama Regional Airport,US,MSL,,KMSL,,877,-3,"[6532, 8690, 3243]"
+Goronka,B,Goroka Airport,PG,GKA,,AYGA,,316,-3,"[3986, 3426, 3666]"
+Espanola,E,Ohkay Owingeh Airport,US,ESO,,E14,,513,-11,[8031]
+Hubli,D,Hubli Airport,IN,HBX,,VOHB,,23,-3,"[9171, 5454, 3545]"
+Cradock,D,Cradock Airport,ZA,CDO,,FACD,,135,-12,"[2241, 8519, 9583]"
+Nice,B,Nice-Côte d'Azur Airport,FR,NCE,,LFMN,,551,-3,"[560, 6854, 3038]"
+Ayacucho,B,Ayacucho Airport,CO,AYC,,,,93,7,"[2353, 394, 6107]"
+Merlo,C,Valle Del Conlara International Airport,AR,RLO,,SAOS,,419,4,[1463]
+Divinópolis,E,Brigadeiro Cabral Airport,BR,DIQ,,SNDV,,77,-6,"[145, 1493, 3706]"
+Roti-Rote Island,C,Roti Airport,ID,RTI,,,,827,-4,"[9730, 2088, 7232]"
+Fort Meade(Odenton),A,Tipton Airport,US,FME,,KFME,,220,12,[4061]
+Dublin,D,Dublin Airport,IE,DUB,,EIDW,,781,6,"[8786, 3612]"
+Parintins,E,Parintins Airport,BR,PIN,,SWPI,,120,-10,"[3914, 2006, 4433]"
+Tela,C,Tela Airport,HN,TEA,,MHTE,,441,5,"[245, 4396]"
+Ruby,D,Ruby Airport,US,RBY,,PARY,,283,-6,[2351]
+Fort Worth,E,Fort Worth Meacham International Airport,US,FTW,,KFTW,,139,10,"[6970, 5464, 4300]"
+Ad Damazin,D,Damazin Airport,SD,RSS,,HSDZ,,722,5,"[8430, 2238, 7984]"
+,D,Chillagoe Airport,AU,LLG,,YCGO,,229,12,[7894]
+Havadarya,C,Havadarya Airport,IR,HDR,,OIKP,,563,-6,[4117]
+Baku,C,Heydar Aliyev International Airport,AZ,GYD,,UBBB,,119,-8,[5511]
+Duqm,B,Duqm International Airport,OM,DQM,,OODQ,,891,0,[825]
+Homeward,A,Thaba Nchu Tar Airport,ZA,TCU,,FATN,,206,-5,"[4210, 6438]"
+,D,Lengbati Airport,PG,LNC,,AYLT,,878,-4,"[2886, 6556]"
+Harrison,A,Boone County Airport,US,HRO,,KHRO,,19,-11,"[629, 6252]"
+St Marys,D,St Marys Municipal Airport,US,STQ,,KOYM,,678,-11,[1741]
+Santa Barbara,D,Santa Barbara Municipal Airport,US,SBA,,KSBA,,453,-5,[1041]
+Beersheba,E,Beersheba (Teyman) Airport,IL,BEV,,LLBS,,181,6,"[9141, 1172]"
+,B,Thargomindah Airport,AU,XTG,,YTGM,,654,-1,"[9225, 9049, 7926]"
+Wunnumin Lake,E,Wunnumin Lake Airport,CA,WNN,,CKL3,,445,-12,"[1666, 950, 2327]"
+,B,Ulgii Mongolei Airport,MN,ULG,,ZMUL,,151,8,[2842]
+Moroni,A,Iconi Airport,KM,YVA,,FMCN,,185,-2,[3804]
+Obano-Papua Island,E,Obano Airport,ID,OBD,,WABR,,555,-7,"[3346, 9637, 8832]"
+Iranshahr,B,Iran Shahr Airport,IR,IHR,,OIZI,,14,-6,"[1350, 986, 245]"
+San Borja,C,Capitán Av. German Quiroga G. Airport,BO,SRJ,,SLSB,,660,-9,"[7451, 1134]"
+Cadillac,E,Wexford County Airport,US,CAD,,KCAD,,272,-6,[4710]
+Wiesbaden,E,Wiesbaden Army Airfield,DE,WIE,,ETOU,,465,0,[1597]
+Taguatinga,D,Taguatinga Airport,BR,QHN,,SWTY,,62,9,[278]
+Caia,C,Caia Airport,MZ,CMZ,,,,427,-11,"[310, 4903, 6895]"
+Poplar Bluff,A,Poplar Bluff Municipal Airport,US,POF,,KPOF,,390,-4,[7123]
+Gasmata Island,B,Gasmata Island Airport,PG,GMI,,AYGT,,211,-3,[3564]
+Cachoeira Do Sul,C,Cachoeira do Sul Airport,BR,QDB,,SSKS,,137,-1,"[7410, 302, 1175]"
+Newry,E,Newry Airport,AU,NRY,,,,60,12,"[4072, 9024]"
+Koutiala,E,Koutiala Airport,ML,KTX,,GAKO,,247,-3,"[1198, 5392]"
+Tabora,B,Tabora Airport,TZ,TBO,,HTTB,,342,-3,"[2701, 4259, 2445]"
+Barretos,D,Chafei Amsei Airport,BR,BAT,,SNBA,,504,-5,"[7688, 4227, 5330]"
+Torrance,E,Zamperini Field,US,TOA,,KTOA,,572,5,[3767]
+Yari,B,Yari Airport,CO,AYI,,,,907,3,"[5611, 3158]"
+Barnaul,D,Barnaul Airport,RU,BAX,,UNBB,,53,-3,"[6508, 9718]"
+Albrook,C,Marcos A. Gelabert International Airport,PA,PAC,,MPMG,,233,-7,"[4908, 3085, 2639]"
+Ittoqqortoormiit,C,Ittoqqortoormiit Heliport,GL,OBY,,BGSC,,271,3,"[2319, 1752, 8537]"
+,B,Bourke Airport,AU,BRK,,YBKE,,723,4,[9648]
+Kerkyra Island,D,Ioannis Kapodistrias International Airport,GR,CFU,,LGKR,,333,0,"[2213, 5474, 8726]"
+Onange Mission,A,Ononge Airport,PG,ONB,,AYQQ,,213,-11,"[9593, 7779, 2140]"
+Aiyura Valley,B,Aiyura Airport,PG,AYU,,AYAY,,877,2,[7331]
+Kasos Island,D,Kasos Airport,GR,KSJ,,LGKS,,691,-10,[1244]
+Blacksburg,A,Virginia Tech Montgomery Executive Airport,US,BCB,,KBCB,,899,-7,"[2089, 2422, 7238]"
+Batagay-Alyta,C,Sakkyryr Airport,RU,SUK,,UEBS,,713,10,"[1278, 1636, 3057]"
+Mansehra,C,Mansehra Airport,PK,HRA,,,,624,-6,"[1395, 712]"
+,E,Mosjøen Airport (Kjærstad),NO,MJF,,ENMS,,234,-7,"[8109, 9928]"
+Al Bayda',A,La Abraq Airport,LY,LAQ,,HLLQ,,408,-2,"[2091, 255]"
+Agen/La Garenne,B,Agen-La Garenne Airport,FR,AGF,,LFBA,,558,-8,"[6628, 3812, 8077]"
+Solenzara,C,Solenzara (BA 126) Air Base,FR,SOZ,,LFKS,,935,12,[5377]
+Gode,A,Gode Airport,ET,GDE,,HAGO,,760,7,"[478, 1878]"
+Lamap,D,Lamap Airport,VU,LPM,,NVSL,,8,-2,[1342]
+Santa Clara,A,Abel Santamaria Airport,CU,SNU,,MUSC,,87,-9,[5835]
+Meridian,B,Key Field,US,MEI,,KMEI,,605,6,"[8328, 3452]"
+Roosevelt,C,Roosevelt Municipal Airport,US,ROL,,,,685,-4,"[6513, 2614]"
+Honolulu,B,Daniel K Inouye International Airport,US,HNL,,PHNL,,879,0,"[4999, 623, 9775]"
+Shanshan,A,Shanshan Airport,CN,SXJ,,ZWSS,,249,-2,"[88, 1909, 3374]"
+Flensburg,D,Flensburg-Schäferhaus Airport,DE,FLF,,EDXF,,544,-9,"[2810, 6748, 8852]"
+Wrocław,B,Copernicus Wrocław Airport,PL,WRO,,EPWR,,838,-1,"[3860, 8499]"
+Vladivostok,C,Vladivostok International Airport,RU,VVO,,UHWW,,551,7,"[779, 3286]"
+Puerto Rico/Manuripi,C,Puerto Rico Airport,BO,PUR,,SLPR,,44,-11,"[9196, 6184]"
+Levelock,B,Levelock Airport,US,KLL,,9Z8,,926,-8,"[887, 597]"
+Marshall,C,Southwest Minnesota Regional Airport - Marshall/Ryan Field,US,MML,,KMML,,256,-2,"[3660, 4392]"
+Tatitlek,A,Tatitlek Airport,US,TEK,,PAKA,,834,1,"[3050, 2035]"
+,D,Finley Airport,AU,FLY,,YFIL,,162,10,[9972]
+Fort Mackay,B,Fort Mackay / Horizon Airport,CA,HZP,,CYNR,,597,8,"[9413, 3410]"
+Tsushima,D,Tsushima Airport,JP,TSJ,,RJDT,,72,-11,"[5781, 7196]"
+Ruhengeri,A,Ruhengeri Airport,RW,RHG,,HRYU,,815,-10,"[7835, 4615, 9677]"
+Welshpool,B,Welshpool Airport,AU,WHL,,,,326,-11,"[8565, 9364, 1868]"
+Manchester,C,Manchester Airport,GB,MAN,,EGCC,,962,11,"[954, 5746]"
+,E,Whangarei Airport,NZ,WRE,,NZWR,,387,0,"[1020, 6668, 9532]"
+Luang Phabang,A,Luang Phabang International Airport,LA,LPQ,,VLLB,,792,-1,"[7028, 3650]"
+Porto Velho,E,Governador Jorge Teixeira de Oliveira Airport,BR,PVH,,SBPV,,420,0,"[9920, 2574, 2208]"
+Burlington,E,Burlington International Airport,US,BTV,,KBTV,,701,-11,"[9216, 5157]"
+High Level,C,High Level Airport,CA,YOJ,,CYOJ,,67,9,[6095]
+,D,Matamata Glider Airport,NZ,MTA,,NZMA,,469,-7,[8921]
+Buffalo,A,Buffalo Niagara International Airport,US,BUF,,KBUF,,578,7,"[713, 1300]"
+Walla Walla,D,Walla Walla Regional Airport,US,ALW,,KALW,,646,4,[8568]
+Rivne,A,Rivne International Airport,UA,RWN,,UKLR,,866,4,[8823]
+Ponta do Ouro,C,Ponta do Ouro Airport,MZ,PDD,,FQPO,,307,9,"[4784, 3619]"
+Jiuzhaigou,C,Jiuzhai Huanglong Airport,CN,JZH,,ZUJZ,,391,8,"[8553, 4503]"
+Port Hope Simpson,B,Port Hope Simpson Airport,CA,YHA,,CCP4,,379,6,"[4671, 1688]"
+Cape Gloucester,A,Cape Gloucester Airport,PG,CGC,,AYCG,,379,-7,"[8993, 5553]"
+Santa Ana Island,A,Santa Ana Airport,SB,NNB,,AGGT,,365,-1,"[6833, 2298, 8298]"
+Moolawatana Station,E,Moolawatana Airport,AU,MWT,,YMWT,,165,-8,[5243]
+Hope Bay,E,Doris Lake,CA,JOJ,,,,974,-2,[1669]
+Puntarenas,E,Chacarita Airport,CR,JAP,,MRCH,,855,-6,"[863, 4830]"
+Lissadell Station,E,Lissadell Airport,AU,LLL,,,,152,-9,"[5627, 5067]"
+Chokwé,A,Chokwé Airport,MZ,TGS,,,,183,9,[9853]
+,E,Lawn Hill Airport,AU,LWH,,YLAH,,752,-12,"[1935, 3870, 2155]"
+Zephyrhills,D,Zephyrhills Municipal Airport,US,ZPH,,KZPH,,738,10,[108]
+San Antonio,E,San Antonio International Airport,US,SAT,,KSAT,,253,8,[2510]
+Billings,B,Billings Logan International Airport,US,BIL,,KBIL,,932,11,"[6249, 1793]"
+Urgench,E,Urgench Airport,UZ,UGC,,UTNU,,508,8,[4179]
+Tarapaina,A,Tarapaina Airport,SB,TAA,,,,770,-4,"[8431, 8521, 2943]"
+Tizimin,A,Cupul Airport,MX,TZM,,MM72,,246,1,"[1234, 4438, 7149]"
+Guadalupe,D,Guadalupe Airport,BR,GDP,,SNGD,,844,-12,"[5856, 5448, 8611]"
+Seattle,A,Boeing Field King County International Airport,US,BFI,,KBFI,,663,-8,[9714]
+Barahona,A,Maria Montez International Airport,DO,BRX,,MDBH,,403,0,"[3834, 7045, 7148]"
+Trinidad,D,Alberto Delgado Airport,CU,TND,,MUTD,,895,-11,[5612]
+Óbidos,A,Óbidos Airport,BR,OBI,,SNTI,,270,-7,[348]
+Courcheval,A,Courchevel Airport,FR,CVF,,LFLJ,,316,0,[1492]
+Theda Station,B,Theda Station Airport,AU,TDN,,YTHD,,570,-9,"[9613, 3801, 1815]"
+Campinas,C,Amarais Airport,BR,CPQ,,SDAM,,654,-5,"[6063, 313]"
+Prishtina,A,Priština International Airport,XK,PRN,,BKPR,,733,11,"[4030, 7265, 8049]"
+Gorno-Altaysk,B,Gorno-Altaysk Airport,RU,RGK,,UNBG,,393,11,[7451]
+Quimper/Pluguffan,E,Quimper-Cornouaille Airport,FR,UIP,,LFRQ,,380,0,"[692, 2261]"
+Burwash,A,Burwash Airport,CA,YDB,,CYDB,,704,3,"[4403, 9638]"
+Derry,C,City of Derry Airport,GB,LDY,,EGAE,,840,7,"[8499, 550, 1255]"
+Alexandroupolis,D,Dimokritos Airport,GR,AXD,,LGAL,,467,-3,[8404]
+Mombaça,C,Mombaça Airport,BR,0,,SNMB,,235,-2,"[7545, 4047, 6465]"
+Kaolack,E,Kaolack Airport,SN,KLC,,GOOK,,572,-8,"[381, 2033, 9844]"
+Ouvéa,A,Ouvéa Airport,NC,UVE,,NWWV,,269,-1,"[3925, 7629, 3873]"
+Gdynia,E,Oksywie Military Air Base,PL,QYD,,EPOK,,308,8,"[3679, 2289, 2108]"
+Sevilla,C,Sevilla Airport,ES,SVQ,,LEZL,,192,5,"[5743, 8851, 1421]"
+American River,A,American River Airport,AU,RCN,,,,491,-9,"[191, 4199]"
+Arar,C,Arar Domestic Airport,SA,RAE,,OERR,,975,12,"[8911, 9988, 931]"
+Sturgeon Bay,D,Door County Cherryland Airport,US,SUE,,KSUE,,556,8,[2332]
+San Salvador de Paul,B,San Salvador de Paul Airport,VE,SVV,,,,237,12,[1040]
+Sartaneja,D,Sartaneja Airport,BZ,SJX,,,,944,-6,"[4909, 3506, 1067]"
+Roberval,A,Roberval Airport,CA,YRJ,,CYRJ,,813,-4,"[3884, 260]"
+Nassau,E,Lynden Pindling International Airport,BS,NAS,,MYNN,,258,-3,[7890]
+Tingwon Island,D,Tingwon Airport,PG,TIG,,,,651,7,"[447, 7751]"
+Siguiri,E,Siguiri Airport,GN,GII,,GUSI,,516,2,[8223]
+West Memphis,B,West Memphis Municipal Airport,US,AWM,,KAWM,,130,2,"[2137, 1084]"
+Quebec,E,Quebec Jean Lesage International Airport,CA,YQB,,CYQB,,161,-2,"[9734, 9044]"
+Ilo,C,Ilo Airport,PE,ILQ,,SPLO,,52,7,[1775]
+Meridian,E,Key Field,US,MEI,,KMEI,,357,1,"[9063, 85, 9884]"
+Xinguara,C,Xinguara Municipal Airport,BR,XIG,,,,993,6,[3733]
+,C,Carmel Valley,US,O62,,,,30,-3,"[3337, 3039, 5823]"
+Cangamba,C,Cangamba Airport,AO,CNZ,,,,429,-7,"[3704, 196, 2478]"
+Bo,A,Bo Airport,SL,KBS,,GFBO,,963,-11,"[4378, 915, 2859]"
+Lubumbashi,A,Lubumbashi International Airport,CD,FBM,,FZQA,,393,-9,[1675]
+St. John's,B,V.C. Bird International Airport,AG,ANU,,TAPA,,968,12,"[7512, 752]"
+Nizhny Novgorod,B,Nizhny Novgorod Strigino International Airport,RU,GOJ,,UWGG,,49,6,"[6370, 5884]"
+Reykhólar,C,Reykhólar Airport,IS,RHA,,BIRE,,1,5,"[1025, 5807]"
+Thiruvananthapuram,E,Trivandrum International Airport,IN,TRV,,VOTV,,404,-8,[8020]
+Yeva,C,Yeva Airport,PG,YVD,,AYXE,,638,0,"[5621, 4986]"
+Turukhansk,B,Turukhansk Airport,RU,THX,,UOTT,,931,-10,"[9119, 6451]"
+,D,Wanaka Airport,NZ,WKA,,NZWF,,971,2,[530]
+Zaragoza,A,Zaragoza Air Base,ES,ZAZ,,LEZG,,138,-4,"[5224, 693, 2665]"
+San Antonio,A,Lackland Air Force Base,US,SKF,,KSKF,,267,9,"[9194, 2216, 4746]"
+Nepesi,E,Param Airport,PG,PPX,,,,669,1,[6378]
+Böblingen,C,Böblingen Flugfeld,DE,PHM,,,,525,-9,[8404]
+Chile Chico,D,Chile Chico Airport,CL,CCH,,SCCC,,975,-12,"[5213, 6252, 5644]"
+Mamai,C,Mamai Airport,PG,MAP,,,,586,-8,[4695]
+Kelso,D,Southwest Washington Regional Airport,US,KLS,,KKLS,,930,-7,[7773]
+"Saqani, Cakaudrove",E,Biaugunu Airport,FJ,AQS,,NFBG,,923,1,"[9852, 8205]"
+Farnborough,C,Farnborough Airport,GB,FAB,,EGLF,,528,1,"[1471, 4410, 9897]"
+Halmstad,C,Halmstad Airport,SE,HAD,,ESMT,,247,-10,[8922]
+Heho,C,Heho Airport,MM,HEH,,VYHH,,817,-11,"[2694, 4890, 8420]"
+Massena,E,Massena International Richards Field,US,MSS,,KMSS,,94,-2,"[3896, 9218, 5523]"
+Mary,A,Mary Airport,TM,MYP,,UTAM,,92,5,"[2833, 1640, 1149]"
+Ulan Bator,E,Chinggis Khaan International Airport,MN,ULN,,ZMUB,,34,12,[2347]
+Oxford House,C,Oxford House Airport,CA,YOH,,CYOH,,996,12,"[4396, 8213, 3007]"
+Whatì,E,Whatì Airport,CA,YLE,,CEM3,,258,-1,"[1312, 9578, 4874]"
+,E,Ambilobe Airport,MG,AMB,,FMNE,,940,10,"[5555, 4910]"
+,E,Bulimba Airport,AU,BIP,,YBWM,,827,-8,"[7472, 5859]"
+Musina,A,Musina(Messina) Airport,ZA,MEZ,,FAMH,,276,3,"[4840, 414, 3448]"
+Porto Cheli,A,Porto Cheli Airport,GR,PKH,,LGHL,,502,9,"[7566, 3389]"
+Sterling,B,Sterling Municipal Airport,US,STK,,KSTK,,182,-9,"[5484, 5209]"
+Altai,B,Altai Airport,MN,LTI,,ZMAT,,789,9,"[9705, 1129]"
+Vernon,E,Vernon Airport,CA,YVE,,CYVK,,700,-7,[5166]
+Inverell,B,Inverell Airport,AU,IVR,,YIVL,,968,12,"[9894, 8879]"
+Minvoul,C,Minvoul Airport,GA,MVX,,FOGV,,51,3,"[7352, 2997]"
+,D,Siocon Airport,PH,XSO,,PRNO,,802,9,[6835]
+Taylor,C,Taylor Airport,US,TYZ,,KTYL,,825,-4,"[1378, 1827]"
+Mili Island,E,Mili Island Airport,MH,MIJ,,MLIP,,346,-12,"[3802, 5026]"
+Santa Cruz del Quiche,A,Santa Cruz del Quiche Airport,GT,AQB,,MGQC,,739,-12,[8747]
+Gnarowein,B,Gnarowein Airport,PG,GWN,,,,819,4,[8847]
+Matamoros,B,General Servando Canales International Airport,MX,MAM,,MMMA,,989,5,"[7689, 9818, 2837]"
+Bordj Badji Mokhtar,C,Bordj Badji Mokhtar Airport,DZ,BMW,,DATM,,951,9,[5523]
+Tehachapi,D,Tehachapi Municipal Airport,US,TSP,,KTSP,,83,3,"[4616, 9043, 7762]"
+Borkum,D,Borkum Airport,DE,BMK,,EDWR,,439,6,[3163]
+Bengkulu-Sumatra Island,C,Fatmawati Soekarno Airport,ID,BKS,,WIGG,,392,-6,"[6540, 3870, 6253]"
+Kadanwari,A,Kadanwari Airport,PK,KCF,,OPKW,,875,-9,[5080]
+Alamogordo,B,Holloman Air Force Base,US,HMN,,KHMN,,385,-9,"[625, 5168, 8569]"
+Moyale,A,Moyale Airport,ET,MYS,,,,830,12,"[5242, 2893, 4294]"
+Breckenridge,D,Stephens County Airport,US,BKD,,KBKD,,384,7,"[8974, 2593, 8264]"
+Tarija,E,Capitan Oriel Lea Plaza Airport,BO,TJA,,SLTJ,,410,2,[3382]
+Mwanza,A,Mwanza Airport,TZ,MWZ,,HTMW,,98,-7,"[4334, 9217]"
+Independence,B,Independence Municipal Airport,US,IDP,,KIDP,,476,0,"[1814, 1193, 3943]"
+Habi,A,Habi Airport,PG,HBD,,AYHB,,995,11,"[1905, 5537, 8630]"
+Price,E,Carbon County Regional/Buck Davis Field,US,PUC,,KPUC,,78,7,[2697]
+Colonel Hill,E,Colonel Hill Airport,BS,CRI,,MYCI,,546,10,"[4910, 6502, 7866]"
+Anchorage,E,Elmendorf Air Force Base,US,EDF,,PAED,,712,-8,"[3696, 2380]"
+Kyauktu,C,Kyauktu Airport,MM,KYT,,VYKU,,141,-6,"[9858, 3166]"
+Da Lat,A,Lien Khuong Airport,VN,DLI,,VVDL,,703,-10,"[7528, 5436, 4298]"
+Duncan,B,Duncan Airport,CA,DUQ,,CAM3,,737,-9,"[8130, 1183]"
+Muskrat Dam,A,Muskrat Dam Airport,CA,MSA,,CZMD,,546,-8,"[9749, 3382, 4292]"
+Burns Lake,E,Burns Lake Airport,CA,YPZ,,CYPZ,,28,5,"[6718, 4417]"
+Louisburg,A,Triangle North Executive Airport,US,LFN,,KLHZ,,691,-1,[9769]
+Khovd,C,Khovd Airport,MN,HVD,,ZMKD,,635,1,[6286]
+Touba,E,Mahana Airport,CI,TOZ,,DITM,,819,2,[9673]
+Fontanges,B,Fontanges Airport,CA,YFG,,CTU2,,695,8,"[5676, 1384]"
+Ord River,B,Ord River Airport,AU,ODR,,YORV,,688,10,"[7209, 4410, 9087]"
+Redwood Falls,C,Redwood Falls Municipal Airport,US,RWF,,KRWF,,195,-7,"[8625, 3306]"
+Lajamanu,C,Hooker Creek Airport,AU,HOK,,YHOO,,934,12,"[7642, 7748]"
+Greenwood,B,CFB Greenwood,CA,YZX,,CYZX,,436,-8,[1195]
+Ibiza,B,Ibiza Airport,ES,IBZ,,LEIB,,594,5,[3858]
+Angel Fire,D,Angel Fire Airport,US,AXX,,KAXX,,313,9,[4234]
+Thomasville,B,Thomasville Regional Airport,US,TVI,,KTVI,,38,-3,"[450, 1232]"
+Tauta,E,Tauta Airport,PG,TUT,,,,655,-5,"[7590, 346, 9345]"
+La Grande Rivière,D,La Grande Rivière Airport,CA,YGL,,CYGL,,406,3,"[3784, 928, 5985]"
+Bakalalan,B,Bakalalan Airport,MY,BKM,,WBGQ,,830,3,"[6303, 2309]"
+Sélibaby,B,Sélibaby Airport,MR,SEY,,GQNS,,399,7,[8820]
+Dehradun,E,Dehradun Airport,IN,DED,,VIDN,,872,7,[8296]
+Hargeisa,B,Egal International Airport,SO,HGA,,HCMH,,470,7,[2509]
+Lublin,A,Lublin Airport,PL,LUZ,,EPLB,,867,8,"[5889, 9127, 193]"
+Stockton,C,Stockton Metropolitan Airport,US,SCK,,KSCK,,690,2,[1560]
+Tokoname,D,Chubu Centrair International Airport,JP,NGO,,RJGG,,54,6,[5384]
+,A,Betoota Airport,AU,BTX,,YBEO,,401,12,[1769]
+Vatry,E,Châlons-Vatry Airport,FR,XCR,,LFOK,,765,3,"[256, 2133]"
+Sue Islet,E,Warraber Island Airport,AU,SYU,,YWBS,,390,-10,[1654]
+Guaporé,C,Guaporé Airport,BR,0,,SSGR,,782,3,"[5964, 729, 4059]"
+Ely,B,Ely Airport Yelland Field,US,ELY,,KELY,,84,4,[5950]
+Fresno,C,Fresno Chandler Executive Airport,US,FCH,,KFCH,,457,-4,[8396]
+Seattle,C,Boeing Field King County International Airport,US,BFI,,KBFI,,661,-6,"[8765, 7844, 5011]"
+Skive,B,Skive Airport,DK,SQW,,EKSV,,75,-11,[6344]
+Great Falls,D,Malmstrom Air Force Base,US,GFA,,KGFA,,597,-3,"[8917, 2954]"
+Hannover,B,Hannover Airport,DE,HAJ,,EDDV,,183,9,"[8979, 2621, 1684]"
+Baglung,B,Baglung Airport,NP,BGL,,VNBL,,77,-7,"[2766, 9280]"
+Tarko-Sale,A,Tarko-Sale Airport,RU,TQL,,USDS,,938,-9,"[4735, 9039, 369]"
+Jimma,D,Jimma Airport,ET,JIM,,HAJM,,240,1,[1250]
+Wageningen,B,Wageningen Airstrip,SR,AGI,,SMWA,,449,-10,"[8406, 814, 6476]"
+Seattle,B,Kenmore Air Harbor Seaplane Base,US,LKE,,W55,,844,0,[6697]
+,D,Benalla Airport,AU,BLN,,YBLA,,831,4,[1955]
+Orapa,D,Orapa Airport,BW,ORP,,FBOR,,900,5,"[9061, 3486, 3313]"
+Trieste,D,Trieste–Friuli Venezia Giulia Airport,IT,TRS,,LIPQ,,271,-7,[805]
+Mogilev,A,Mogilev Airport,BY,MVQ,,UMOO,,92,7,[6330]
+Nyeri,D,Nyeri Airport,KE,NYE,,HKNI,,951,12,"[7770, 8464]"
+Minaçu,A,Minaçu Airport,BR,MQH,,SWIQ,,208,6,"[9217, 4078]"
+Shell Mera,B,Rio Amazonas Airport,EC,PTZ,,SESM,,875,3,[944]
+Cañon City,E,Fremont County Airport,US,CNE,,1V6,,863,-1,"[4312, 7694]"
+Golfito,C,Golfito Airport,CR,GLF,,MRGF,,399,-1,"[3347, 2470, 4738]"
+Donegal,A,Donegal Airport,IE,CFN,,EIDL,,16,-12,"[9796, 8963, 5182]"
+Grundarfjörður,B,Grundarfjörður Airport,IS,GUU,,BIGF,,572,-5,[9080]
+Kinshasa,D,Ndjili International Airport,CD,FIH,,FZAA,,694,-8,[9257]
+Northampton,B,Sywell Aerodrome,GB,ORM,,EGBK,,836,-1,"[3880, 2946, 7757]"
+Hinthada,C,Hinthada Airport,MM,HEB,,VYHT,,45,6,[4810]
+Michigan City,C,Michigan City Municipal Airport,US,MGC,,KMGC,,664,-9,"[8863, 1908]"
+,E,Ararat Airport,AU,ARY,,YARA,,160,5,"[9127, 9786, 7729]"
+Qasigiannguit,A,Qasigiannguit Heliport,GL,JCH,,BGCH,,766,-2,[7411]
+Alluitsup Paa,C,Alluitsup Paa Heliport,GL,LLU,,BGAP,,969,-11,[9676]
+Samara,B,Kurumoch International Airport,RU,KUF,,UWWW,,303,2,[520]
+Shenzhen,E,Shenzhen Bao'an International Airport,CN,SZX,,ZGSZ,,796,-8,[4792]
+Fort McMurray,E,Fort McMurray Airport,CA,YMM,,CYMM,,543,-3,"[5858, 1881, 64]"
+,C,Badu Island Airport,AU,BDD,,YBAU,,496,9,[6561]
+,A,Nuku Hiva Airport,PF,NHV,,NTMD,,882,-5,"[6064, 902, 4198]"
+Siasi Island,E,Siasi Airport,PH,SSV,,,,503,4,"[4246, 239]"
+Florianópolis,C,Hercílio Luz International Airport,BR,FLN,,SBFL,,310,-2,"[5697, 9285, 7210]"
+Roundup,D,Roundup Airport,US,RPX,,KRPX,,892,8,"[5475, 8629]"
+Manokwari-Papua Island,B,Rendani Airport,ID,MKW,,WASR,,38,1,"[9037, 5688, 454]"
+,C,Boulia Airport,AU,BQL,,YBOU,,817,3,"[7944, 5163, 800]"
+Spencer,B,Spencer Municipal Airport,US,SPW,,KSPW,,112,4,[8112]
+Donaueschingen,E,Donaueschingen-Villingen Airport,DE,ZQL,,EDTD,,522,-5,"[2214, 5850]"
+Matei,B,Matei Airport,FJ,TVU,,NFNM,,607,-12,[5522]
+Dekai - Yahukimo,E,Nop Goliat Airport,ID,DEX,,WAVD,,578,12,"[8062, 2834]"
+El Dorado,D,Captain Jack Thomas El Dorado Airport,US,EDK,,KEQA,,42,-7,"[6302, 6549]"
+Thumrait,D,Thumrait Air Base,OM,TTH,,OOTH,,20,6,[8662]
+Magdeburg,C,"Magdeburg ""City"" Airport",DE,ZMG,,EDBM,,958,-6,"[1680, 1358, 6844]"
+Kribi,C,Kribi Airport,CM,KBI,,FKKB,,169,2,"[1088, 3427]"
+Rennell Island,D,Rennell/Tingoa Airport,SB,RNL,,AGGR,,726,3,[2715]
+Neubrandenburg,A,Neubrandenburg Airport,DE,FNB,,EDBN,,571,-8,[4944]
+Mount Hotham,A,Mount Hotham Airport,AU,MHU,,YHOT,,809,-2,[7180]
+Malindi,C,Malindi Airport,KE,MYD,,HKML,,494,-10,[144]
+Delta Junction Ft Greely,B,Allen Army Airfield,US,BIG,,PABI,,876,11,"[4397, 9118, 1222]"
+Tucuruí,E,Tucuruí Airport,BR,TUR,,SBTU,,49,-11,"[3718, 1353]"
+Whitehorse,E,Whitehorse / Erik Nielsen International Airport,CA,YXY,,CYXY,,431,-11,[4596]
+Nea Anchialos,D,Nea Anchialos Airport,GR,VOL,,LGBL,,96,-6,"[9413, 678]"
+New Ulm,E,New Ulm Municipal Airport,US,ULM,,KULM,,225,-2,"[2102, 9443]"
+,C,Andapa Airport,MG,ZWA,,FMND,,147,7,[9683]
+Debre Tabor,B,Debre Tabor Airport,ET,DBT,,HADT,,227,11,[6489]
+Büsum,D,Heide-Büsum Airport,DE,HEI,,EDXB,,921,-10,"[9799, 4148, 1455]"
+Skagway,C,Skagway Airport,US,SGY,,PAGY,,689,4,"[4675, 8137]"
+Tchibanga,B,Tchibanga Airport,GA,TCH,,FOOT,,260,-11,"[4995, 8963, 8183]"
+El Reno,D,El Reno Regional Airport,US,RQO,,KRQO,,946,3,[948]
+Oshawa,D,Toronto/Oshawa Executive Airport,CA,YOO,,CYOO,,175,-9,"[748, 9682, 1555]"
+Aripuanã,E,Aripuanã Airport,BR,AIR,,SSOU,,855,3,[2081]
+,A,Mount House Airport,AU,MHO,,YMHO,,312,-10,"[8149, 8013]"
+,E,Quilpie Airport,AU,ULP,,YQLP,,835,2,"[8758, 9871]"
+New Delhi,E,Indira Gandhi International Airport,IN,DEL,,VIDP,,223,8,"[6609, 8220, 2821]"
+Uchiza,E,Uchiza Airport,PE,UCZ,,SPIZ,,639,12,"[7527, 3496]"
+Kananga,A,Kananga Airport,CD,KGA,,FZUA,,387,-9,"[8981, 3234]"
+Grand Rapids,C,Grand Rapids Itasca Co-Gordon Newstrom field,US,GPZ,,KGPZ,,661,-4,[2076]
+,D,Dunbar Airport,AU,DNB,,YDBR,,798,10,"[5772, 8517, 3801]"
+Dawei,B,Dawei Airport,MM,TVY,,VYDW,,489,-1,[8245]
+Dallas-Fort Worth,D,Dallas Fort Worth International Airport,US,DFW,,KDFW,,599,0,"[5850, 3867, 6053]"
+Cayo Coco,E,Jardines Del Rey Airport,CU,CCC,,MUCC,,257,9,"[3269, 7243]"
+Galveston,B,Scholes International At Galveston Airport,US,GLS,,KGLS,,303,8,"[853, 4476]"
+La Môle,D,La Môle Airport,FR,LTT,,LFTZ,,372,3,"[8430, 116, 5944]"
+Sesheke,C,Sesheke Airport,ZM,SJQ,,FLSS,,888,9,"[9352, 4078, 2993]"
+Atlanta,C,Hartsfield Jackson Atlanta International Airport,US,ATL,,KATL,,259,-7,[8074]
+Lissadell Station,D,Lissadell Airport,AU,LLL,,,,749,12,"[9560, 7817]"
+Dirico,A,Dirico Airport,AO,DRC,,,,510,-12,"[8481, 8856]"
+,C,Dakhla Airport,EG,DAK,,HEDK,,436,-6,[8764]
+Dakar,B,Léopold Sédar Senghor International Airport,SN,DKR,,GOOY,,198,2,[7142]
+Dos Lagunas,C,Dos Lagunas Airport,GT,DON,,MGDL,,229,3,[5898]
+Chambéry/Aix-les-Bains,D,Chambéry-Savoie Airport,FR,CMF,,LFLB,,724,3,[225]
+Menorca Island,A,Menorca Airport,ES,MAH,,LEMH,,849,11,[8710]
+Knoxville,E,McGhee Tyson Airport,US,TYS,,KTYS,,791,-5,"[7625, 3231, 5614]"
+Kokkola / Kruunupyy,B,Kokkola-Pietarsaari Airport,FI,KOK,,EFKK,,227,-6,"[4257, 4043, 6020]"
+Wasilla,E,Wasilla Airport,US,WWA,,PAWS,,995,-3,"[1783, 3191, 4164]"
+Mogi Mirim,D,Mogi Mirim Airport,BR,0,,SDMJ,,706,-5,"[3035, 7142]"
+Rivera,E,Presidente General Don Oscar D. Gestido International Airport,UY,RVY,,SURV,,274,1,"[3401, 3549]"
+Borger,A,Hutchinson County Airport,US,BGD,,KBGD,,568,-2,"[931, 3499, 4729]"
+Kingstown,A,E. T. Joshua Airport,VC,SVD,,TVSV,,558,0,"[7631, 8475, 5321]"
+Santa Cruz del Quiche,C,Santa Cruz del Quiche Airport,GT,AQB,,MGQC,,999,-6,"[7063, 3283, 2945]"
+Damascus,C,Damascus International Airport,SY,DAM,,OSDI,,959,-11,"[2067, 299, 8370]"
+Sucua,B,Sucua Airport,EC,SUQ,,SESC,,112,-2,"[1563, 2734, 6506]"
+Rodes Island,D,Diagoras Airport,GR,RHO,,LGRP,,247,-12,[3509]
+Anshun,E,Anshun Huangguoshu Airport,CN,AVA,,ZUAS,,907,-7,"[8839, 1549]"
+Lincoln,D,Lincoln Airport,US,LNK,,KLNK,,332,-6,"[1060, 7591]"
+,A,Noshahr Airport,IR,NSH,,OINN,,97,-3,"[7852, 1467]"
+Arraias,B,Arraias Airport,BR,AAI,,SWRA,,733,3,[6808]
+Istanbul,A,Istanbul Airport,TR,IST,,LTFM,,149,-6,"[4739, 3975]"
+Parana,C,General Urquiza Airport,AR,PRA,,SAAP,,931,4,"[9648, 6916]"
+Krasnoyarsk,D,Yemelyanovo Airport,RU,KJA,,UNKL,,674,7,"[8684, 9165]"
+Kurgan,A,Kurgan Airport,RU,KRO,,USUU,,223,10,[7810]
+Jebel Ali,B,Al Maktoum International Airport,AE,DWC,,OMDW,,114,-7,"[1298, 7002]"
+Saginaw,B,MBS International Airport,US,MBS,,KMBS,,915,12,"[8967, 7894]"
+Boquira,A,Boquira Airport,BR,0,,SNBO,,332,-11,[8211]
+Mianwali,E,Mianwali Air Base,PK,MWD,,OPMI,,47,5,[6280]
+The Pas,A,The Pas Airport,CA,YQD,,CYQD,,152,-10,"[1271, 6552]"
+Khujirt,C,Khujirt Airport,MN,HJT,,ZMHU,,919,6,"[4184, 3878, 8367]"
+Murmansk,D,Murmansk Airport,RU,MMK,,ULMM,,927,-5,"[732, 335, 5783]"
+,C,Warrawagine Airport,AU,WRW,,YWWG,,381,-12,"[522, 6900, 7242]"
+Belleville,D,Scott AFB/Midamerica Airport,US,BLV,,KBLV,,740,7,"[3048, 373]"
+El Arish,D,El Arish International Airport,EG,AAC,,HEAR,,94,-1,[2395]
+Kelila-Papua Island,A,Kelila Airport,ID,LLN,,,,497,-6,"[4750, 8329, 5714]"
+Phnom Penh,A,Phnom Penh International Airport,KH,PNH,,VDPP,,230,-10,"[8038, 4001, 7572]"
+,C,Balcanoona Airport,AU,LCN,,YBLC,,966,-7,"[8275, 6929]"
+Ewo,D,Ewo Airport,CG,EWO,,FCOE,,138,8,[813]
+Am Timan,E,Am Timan Airport,TD,AMC,,FTTN,,433,12,[4930]
+Impfondo,E,Impfondo Airport,CG,ION,,FCOI,,293,7,[9903]
+Houston,A,David Wayne Hooks Memorial Airport,US,DWH,,KDWH,,130,-1,[5399]
+Greybull,B,South Big Horn County Airport,US,GEY,,KGEY,,917,4,[1304]
+Anuradhapura,A,Anuradhapura Air Force Base,LK,ACJ,,VCCA,,639,2,"[7959, 8672]"
+Roma,B,Roma Airport,AU,RMA,,YROM,,875,12,[6867]
+,E,Katanning Airport,AU,KNI,,YKNG,,300,-12,[8481]
+Stony Rapids,A,Stony Rapids Airport,CA,YSF,,CYSF,,438,-8,"[6626, 961, 2037]"
+Williston,D,Sloulin Field International Airport,US,ISN,,KISN,,783,10,"[3170, 2166, 4463]"
+Djibouti City,B,Djibouti-Ambouli Airport,DJ,JIB,,HDAM,,208,4,"[8414, 766]"
+Bahía Cupica,D,Bahia Cupica Airport,CO,BHF,,,,542,10,"[410, 8323, 2360]"
+Paphos,B,Paphos International Airport,CY,PFO,,LCPH,,76,10,"[7332, 5584, 1243]"
+Santo Domingo,C,Las Américas International Airport,DO,SDQ,,MDSD,,148,-2,"[6778, 7558, 8502]"
+Inta,A,Inta Airport,RU,INA,,UUYI,,660,0,"[4197, 496]"
+,D,Highbury Airport,AU,HIG,,YHHY,,550,-9,"[5858, 2295, 6904]"
+Dallas-Fort Worth,E,Dallas Fort Worth International Airport,US,DFW,,KDFW,,297,-7,"[7055, 8157, 1015]"
+Ironstone,B,Penneshaw Airport,AU,PEA,,YPSH,,580,-12,"[5997, 6973, 4658]"
+Parma,D,Parma Airport,IT,PMF,,LIMP,,188,-12,"[6964, 1069]"
+Icy Bay,A,Icy Bay Airport,US,ICY,,19AK,,201,11,[9960]
+Farmington,A,Farmington Regional Airport,US,FAM,,KFAM,,823,6,"[9861, 5664, 9456]"
+,A,Mount Sanford Station Airport,AU,MTD,,YMSF,,829,-11,"[2101, 5084]"
+Kitkatla,D,Kitkatla Seaplane Base,CA,YKK,,CAP7,,937,5,"[9107, 5600, 3892]"
+Tarko-Sale,E,Tarko-Sale Airport,RU,TQL,,USDS,,93,3,[4751]
+Port Hedland,A,Port Hedland International Airport,AU,PHE,,YPPD,,629,4,"[6432, 8998, 9627]"
+Lucknow,E,Chaudhary Charan Singh International Airport,IN,LKO,,VILK,,249,5,[7127]
+Tangier,A,Ibn Batouta Airport,MA,TNG,,GMTT,,710,6,[2618]
+Makung City,D,Makung Airport,TW,MZG,,RCQC,,484,10,"[8679, 2729]"
+Baleela Base Camp,C,Baleela Airport,SD,BJE,,,,31,8,[2788]
+Bogalusa,B,George R Carr Memorial Air Field,US,BXA,,KBXA,,434,-3,"[7467, 1740, 1318]"
+Cruz Alta,D,Carlos Ruhl Airport,BR,CZB,,SSAK,,0,-10,[509]
+Fallon,B,Fallon Municipal Airport,US,FLX,,KFLX,,247,-7,"[7539, 239]"
+,D,Moundou Airport,TD,MQQ,,FTTD,,589,9,"[3313, 8681]"
+,B,Nullabor Motel Airport,AU,NUR,,YNUB,,610,-9,[3425]
+,B,Lizard Island Airport,AU,LZR,,YLZI,,383,-5,[1696]
+Montreal,C,Cartierville Airport,CA,YCV,,CYCV,,851,-9,"[8985, 6996, 3683]"
+Amman,A,Amman-Marka International Airport,JO,ADJ,,OJAM,,196,5,"[6595, 9307, 2422]"
+Awaradam,A,Cayana Airstrip,SR,AAJ,,SMCA,,2,-5,"[8568, 3160]"
+Kangaatsiaq,D,Kangaatsiaq Heliport,GL,QPW,,BGKA,,36,-12,"[6443, 2009]"
+,C,Songkhla Airport,TH,SGZ,,VTSH,,403,8,"[4854, 3004, 5062]"
+Broken Hill,C,Broken Hill Airport,AU,BHQ,,YBHI,,263,-4,[4488]
+Kuito,D,Kuito Airport,AO,SVP,,FNKU,,236,1,"[2953, 128, 8774]"
+Vancouver,A,Vancouver International Airport,CA,YVR,,CYVR,,84,-2,[8738]
+Resende,B,Resende Airport,BR,REZ,,SDRS,,462,5,"[278, 7717]"
+Garanhuns,B,Garanhuns Airport,BR,QGP,,SNGN,,319,-1,[4770]
+Merlo,C,Valle Del Conlara International Airport,AR,RLO,,SAOS,,134,-6,[8541]
+Jackson,E,Jackson Hole Airport,US,JAC,,KJAC,,138,0,[24]
+Durham,A,Durham Tees Valley Airport,GB,MME,,EGNV,,8,5,"[582, 5970, 8131]"
+Geçitkale,A,Lefkoniko Airport,CY,GEC,,LCGK,,733,-1,"[732, 8949]"
+Pierre,A,Pierre Regional Airport,US,PIR,,KPIR,,155,1,[5793]
+Tiko,B,Tiko Airport,CM,TKC,,FKKC,,709,0,"[1486, 5129, 8695]"
+Phu Quoc Island,B,Phu Quoc International Airport,VN,PQC,,VVPQ,,294,-1,[8124]
+,B,Cooinda Airport,AU,CDA,,YCOO,,947,3,[7683]
+Foya,B,Foya Airport,LR,FOY,,,,982,4,[9511]
+Grande Anse,E,La Désirade Airport,GP,DSD,,TFFA,,102,0,[2053]
+Mareb,B,Mareb Airport,YE,MYN,,OYMB,,784,4,[3841]
+Brasilito,A,Flamingo Airport,CR,FMG,,MRFL,,188,5,[7876]
+Kassel,B,Kassel-Calden Airport,DE,KSF,,EDVK,,901,8,"[9647, 1287]"
+Babelthuap Island,B,Babelthuap Airport,PW,ROR,,PTRO,,75,12,[391]
+Fakfak-Papua Island,C,Fakfak Airport,ID,FKQ,,WASF,,959,11,"[9956, 2156]"
+Lac La Biche,D,Lac La Biche Airport,CA,YLB,,CYLB,,690,11,"[2868, 6872]"
+Johnston Atoll,A,Johnston Atoll Airport,UM,JON,,PJON,,444,-6,"[5646, 4393]"
+Donaueschingen,C,Donaueschingen-Villingen Airport,DE,ZQL,,EDTD,,427,-3,"[1216, 3176, 1107]"
+Spratley Islands,D,Layang-Layang Airport,MY,LAC,,,,588,5,[6340]
+Touho,C,Touho Airport,NC,TOU,,NWWU,,820,0,[4207]
+Uvol,A,Uvol Airport,PG,UVO,,AYUZ,,397,9,"[1710, 1486, 5033]"
+,D,Piedras Negras International Airport,MX,PDS,,MMPG,,306,10,"[6244, 7427, 3203]"
+Bunju Island,E,Bunyu Airport,ID,BYQ,,WALV,,24,-2,"[6105, 2775]"
+Kampala,D,Kololo Airstrip,UG,KLA,,HUKC,,383,1,"[2931, 4767, 8625]"
+Zacatecas,E,General Leobardo C. Ruiz International Airport,MX,ZCL,,MMZC,,331,0,[5347]
+Namatanai,A,Namatanai Airport,PG,ATN,,AYNX,,414,-8,"[4409, 2219, 9688]"
+Kitchener,A,Waterloo Airport,CA,YKF,,CYKF,,483,-3,"[525, 5637]"
+Greenville,A,Donaldson Field Airport,US,GDC,,KGYH,,497,7,[8677]
+Pama,D,Pama Airport,BF,XPA,,DFEP,,814,-8,"[8540, 565, 7784]"
+Miramar,B,Miramar Airport,AR,MJR,,SAEM,,938,-5,[7415]
+Valletta,A,Malta International Airport,MT,MLA,,LMML,,937,9,"[759, 9996]"
+Yeovil,E,RNAS Yeovilton,GB,YEO,,EGDY,,603,-11,"[6316, 9516, 1328]"
+Sioux Falls,B,Joe Foss Field Airport,US,FSD,,KFSD,,501,-3,[5869]
+Collins Bay,B,Collins Bay Airport,CA,YKC,,CYKC,,587,-4,"[8388, 8878]"
+,E,Finley Airport,AU,FLY,,YFIL,,842,-9,"[2647, 9024]"
+Ketapang-Borneo Island,E,Ketapang(Rahadi Usman) Airport,ID,KTG,,WIOK,,247,2,"[621, 7313, 2127]"
+Scampton,B,RAF Scampton,GB,SQZ,,EGXP,,166,1,"[7613, 1391]"
+Bedford,A,Laurence G Hanscom Field,US,BED,,KBED,,404,-5,[6645]
+Hong Kong,E,Hong Kong International Airport,HK,HKG,,VHHH,,734,12,"[8097, 1094, 6479]"
+Yogyakarta-Java Island,D,Adi Sutjipto International Airport,ID,JOG,,WARJ,,235,-9,[8820]
+Cimitarra,B,Cimitarra Airport,CO,CIM,,SKCM,,692,-3,[4713]
+Watertown,C,Watertown International Airport,US,ART,,KART,,867,-4,[6966]
+Big Trout Lake,D,Big Trout Lake Airport,CA,YTL,,CYTL,,174,-6,"[4164, 5601, 276]"
+Asosa,C,Asosa Airport,ET,ASO,,HASO,,861,-11,"[7687, 6233]"
+Campbellpore,E,Campbellpore Airport,PK,CWP,,,,256,-2,[2895]
+Bellaire,D,Antrim County Airport,US,ACB,,KACB,,17,1,"[240, 6693, 5918]"
+Prospect Creek,C,Prospect Creek Airport,US,PPC,,PAPR,,437,10,"[7197, 6232, 3221]"
+Tanjung Balai-Karinmunbesar Island,C,Sei Bati Airport,ID,TJB,,WIBT,,351,-1,"[6711, 6774, 7180]"
+Krasnoyarsk,A,Yemelyanovo Airport,RU,KJA,,UNKL,,317,-5,[3350]
+Kokonau-Papua Island,B,Kokonau Airport,ID,KOX,,WABN,,259,-9,"[6368, 1688]"
+Telida,E,Telida Airport,US,TLF,,2K5,,904,9,"[4015, 5645, 2253]"
+Ashgabat,E,Ashgabat International Airport,TM,ASB,,UTAA,,179,7,[2767]
+Jambi-Sumatra Island,A,Sultan Thaha Airport,ID,DJB,,WIPA,,388,-7,"[967, 6552]"
+Yes Bay,C,Yes Bay Lodge Seaplane Base,US,WYB,,78K,,624,5,[1735]
+Durgapur,B,Kazi Nazrul Islam Airport,IN,RDP,,VEDG,,312,-5,"[2515, 6279]"
+Anaco,B,Anaco Airport,VE,AAO,,SVAN,,492,8,"[6727, 8391, 5002]"
+Curitiba,E,Bacacheri Airport,BR,BFH,,SBBI,,360,-10,"[5246, 8669]"
+Van Horn,D,Culberson County Airport,US,VHN,,KVHN,,426,-9,[2208]
+Mouyondzi,E,Mouyondzi Airport,CG,MUY,,FCBM,,196,-6,"[8126, 2709]"
+Jutigalpa,B,Jutigalpa airport,HN,JUT,,MHJU,,173,0,"[3183, 9340]"
+Bazaruto Island,D,Indigo Bay Lodge Airport,MZ,IBL,,,,412,-10,"[5381, 1649]"
+Reynosa,E,General Lucio Blanco International Airport,MX,REX,,MMRX,,423,11,[8072]
+Wiscasset,D,Wiscasset Airport,US,ISS,,KIWI,,195,11,"[7630, 5648]"
+Pasirkuning-Singkep Island,A,Dabo Airport,ID,SIQ,,WIDS,,763,10,"[2137, 2886]"
+Nanjing,A,Nanjing Lukou Airport,CN,NKG,,ZSNJ,,314,-12,"[9201, 7887, 7223]"
+Hazleton,D,Hazleton Municipal Airport,US,HZL,,KHZL,,639,3,"[4734, 3792, 3398]"
+Big Spring,D,Big Spring Mc Mahon-Wrinkle Airport,US,HCA,,KBPG,,372,5,"[7965, 5534, 6067]"
+Grand Marais,A,Grand Marais Cook County Airport,US,GRM,,KCKC,,682,-3,[2328]
+Itacoatiara,D,Itacoatiara Airport,BR,ITA,,SBIC,,808,0,"[7696, 8717, 5180]"
+Bayreuth,C,Bayreuth Airport,DE,BYU,,EDQD,,76,6,"[7660, 6413]"
+Johannesburg,A,Lanseria Airport,ZA,HLA,,FALA,,89,10,[920]
+Williams Harbour,E,Williams Harbour Airport,CA,YWM,,CCA6,,250,-5,"[232, 950, 6277]"
+Chapleau,C,Chapleau Airport,CA,YLD,,CYLD,,750,-8,[2040]
+Arawa,C,Arawa Airport,PG,RAW,,,,950,-7,"[9651, 3801, 3941]"
+Veranópolis,E,Veranópolis Airport,BR,0,,SSVN,,1000,-2,"[8369, 8527]"
+Muscatine,D,Muscatine Municipal Airport,US,MUT,,KMUT,,67,8,"[4732, 6348, 5534]"
+Garuahi,B,Garuahi Airport,PG,GRH,,,,585,-3,[4599]
+,C,Kitee Airport,FI,KTQ,,EFIT,,671,11,[5820]
+Lençóis,A,Coronel Horácio de Mattos Airport,BR,LEC,,SBLE,,274,10,"[9358, 9912, 1520]"
+Parkersburg,A,Mid Ohio Valley Regional Airport,US,PKB,,KPKB,,528,8,[7718]
+Buritirama,D,Buritirama Airport,BR,0,,SNTQ,,137,-12,"[1009, 304]"
